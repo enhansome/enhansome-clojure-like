@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Top-starred over the last 2 weeks",
+      "description": "Top-starred over the last 3 weeks",
       "items": [],
       "title": "🔥 Trending"
     },
@@ -17,9 +17,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:40:53.180Z",
+    "last_updated": "2026-08-16T19:39:54.012Z",
     "original_repository": "ilevd/clojure-like",
-    "original_repository_sha": "ab5256a4153bd3c2fdb999a68136d575776f7ad8",
+    "original_repository_sha": "2e6ded0b520add73c8096015dee257bed82ba1ef",
     "enhanced_repository": "enhansome/enhansome-clojure-like",
     "enhanced_repository_description": null,
     "title": "Awesome Clojure-like with stars"
