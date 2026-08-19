@@ -1,25 +1,10 @@
 {
-  "items": [
-    {
-      "description": "Top-starred over the last 3 weeks",
-      "items": [],
-      "title": "🔥 Trending"
-    },
-    {
-      "description": "Most contributed to the default branch over the last 2 months",
-      "items": [],
-      "title": "⚡ Most active"
-    },
-    {
-      "description": "Most recently created over the past year",
-      "items": [],
-      "title": "✨ Newest"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T19:46:01.803Z",
+    "last_updated": "2026-08-19T12:22:32.572Z",
     "original_repository": "ilevd/clojure-like",
-    "original_repository_sha": "a593aad1ac3366fb6fd043fc2271f5d35a4fd1d5",
+    "original_repository_id": 1030442505,
+    "original_repository_sha": "ac64a45d0af3d3423d9915d5baf17c1ad0628e4c",
     "enhanced_repository": "enhansome/enhansome-clojure-like",
     "enhanced_repository_description": null,
     "title": "Awesome Clojure-like with stars"
