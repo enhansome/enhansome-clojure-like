@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-24T04:58:58Z",
+            "last_commit": "2026-08-24T18:05:22Z",
             "owner": "jolt-lang",
             "repo": "jolt",
             "stars": 255
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-24T10:14:42Z",
+            "last_commit": "2026-08-24T15:17:56Z",
             "owner": "babashka",
             "repo": "babashka",
             "stars": 4593
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 340518175,
             "language": "Go",
-            "last_commit": "2026-08-24T05:38:54Z",
+            "last_commit": "2026-08-24T19:43:50Z",
             "owner": "nooga",
             "repo": "let-go",
             "stars": 553
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 49426320,
             "language": "Haskell",
-            "last_commit": "2026-08-03T19:51:02Z",
+            "last_commit": "2026-08-24T18:42:47Z",
             "owner": "carp-lang",
             "repo": "Carp",
             "stars": 6012
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 201774594,
             "language": "Clojure",
-            "last_commit": "2026-08-24T14:41:41Z",
+            "last_commit": "2026-08-24T15:17:05Z",
             "owner": "babashka",
             "repo": "sci",
             "stars": 1381
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-02T02:35:36Z",
             "owner": "basilisp-lang",
             "repo": "basilisp",
-            "stars": 477
+            "stars": 478
           }
         },
         {
@@ -654,7 +654,7 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-24T04:58:58Z",
+            "last_commit": "2026-08-24T18:05:22Z",
             "owner": "jolt-lang",
             "repo": "jolt",
             "stars": 255
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 1239669136,
             "language": "Racket",
-            "last_commit": "2026-08-24T14:30:15Z",
+            "last_commit": "2026-08-24T19:29:18Z",
             "owner": "tompassarelli",
             "repo": "beagle",
             "stars": 23
@@ -774,7 +774,7 @@
             "archived": false,
             "id": 340518175,
             "language": "Go",
-            "last_commit": "2026-08-24T05:38:54Z",
+            "last_commit": "2026-08-24T19:43:50Z",
             "owner": "nooga",
             "repo": "let-go",
             "stars": 553
@@ -915,7 +915,7 @@
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-24T10:14:42Z",
+            "last_commit": "2026-08-24T15:17:56Z",
             "owner": "babashka",
             "repo": "babashka",
             "stars": 4593
@@ -975,7 +975,7 @@
             "archived": false,
             "id": 201774594,
             "language": "Clojure",
-            "last_commit": "2026-08-24T14:41:41Z",
+            "last_commit": "2026-08-24T15:17:05Z",
             "owner": "babashka",
             "repo": "sci",
             "stars": 1381
@@ -1158,7 +1158,7 @@
             "last_commit": "2026-08-02T02:35:36Z",
             "owner": "basilisp-lang",
             "repo": "basilisp",
-            "stars": 477
+            "stars": 478
           }
         },
         {
@@ -1185,7 +1185,7 @@
             "archived": false,
             "id": 49426320,
             "language": "Haskell",
-            "last_commit": "2026-08-03T19:51:02Z",
+            "last_commit": "2026-08-24T18:42:47Z",
             "owner": "carp-lang",
             "repo": "Carp",
             "stars": 6012
@@ -1296,7 +1296,7 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-24T04:58:58Z",
+            "last_commit": "2026-08-24T18:05:22Z",
             "owner": "jolt-lang",
             "repo": "jolt",
             "stars": 255
@@ -1311,7 +1311,7 @@
             "archived": false,
             "id": 1239669136,
             "language": "Racket",
-            "last_commit": "2026-08-24T14:30:15Z",
+            "last_commit": "2026-08-24T19:29:18Z",
             "owner": "tompassarelli",
             "repo": "beagle",
             "stars": 23
@@ -1593,7 +1593,7 @@
             "archived": false,
             "id": 49426320,
             "language": "Haskell",
-            "last_commit": "2026-08-03T19:51:02Z",
+            "last_commit": "2026-08-24T18:42:47Z",
             "owner": "carp-lang",
             "repo": "Carp",
             "stars": 6012
@@ -1623,7 +1623,7 @@
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-24T10:14:42Z",
+            "last_commit": "2026-08-24T15:17:56Z",
             "owner": "babashka",
             "repo": "babashka",
             "stars": 4593
@@ -1818,7 +1818,7 @@
             "archived": false,
             "id": 201774594,
             "language": "Clojure",
-            "last_commit": "2026-08-24T14:41:41Z",
+            "last_commit": "2026-08-24T15:17:05Z",
             "owner": "babashka",
             "repo": "sci",
             "stars": 1381
@@ -2028,7 +2028,7 @@
             "archived": false,
             "id": 340518175,
             "language": "Go",
-            "last_commit": "2026-08-24T05:38:54Z",
+            "last_commit": "2026-08-24T19:43:50Z",
             "owner": "nooga",
             "repo": "let-go",
             "stars": 553
@@ -2106,7 +2106,7 @@
             "last_commit": "2026-08-02T02:35:36Z",
             "owner": "basilisp-lang",
             "repo": "basilisp",
-            "stars": 477
+            "stars": 478
           }
         },
         {
@@ -2163,7 +2163,7 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-24T04:58:58Z",
+            "last_commit": "2026-08-24T18:05:22Z",
             "owner": "jolt-lang",
             "repo": "jolt",
             "stars": 255
@@ -2778,7 +2778,7 @@
             "archived": false,
             "id": 1239669136,
             "language": "Racket",
-            "last_commit": "2026-08-24T14:30:15Z",
+            "last_commit": "2026-08-24T19:29:18Z",
             "owner": "tompassarelli",
             "repo": "beagle",
             "stars": 23
@@ -3149,7 +3149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:43:22.772Z",
+    "last_updated": "2026-08-24T19:50:20.082Z",
     "original_repository": "ilevd/clojure-like",
     "original_repository_id": 1030442505,
     "original_repository_sha": "3dc6ac81b77de610ac846448989754462fc2b3c0",
