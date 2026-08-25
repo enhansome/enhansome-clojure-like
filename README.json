@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-25T03:49:49Z",
+            "last_commit": "2026-08-25T16:57:21Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 255
+            "stars": 258
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 21428070,
             "language": "C++",
-            "last_commit": "2026-08-24T23:33:25Z",
+            "last_commit": "2026-08-25T19:18:30Z",
             "owner": "jank-lang",
             "repo": "jank",
-            "stars": 3317
+            "stars": 3316
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-24T21:34:29Z",
+            "last_commit": "2026-08-25T19:20:20Z",
             "owner": "babashka",
             "repo": "babashka",
             "stars": 4593
@@ -90,7 +90,7 @@
             "last_commit": "2025-10-22T16:42:57Z",
             "owner": "kanaka",
             "repo": "mal",
-            "stars": 10721
+            "stars": 10722
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 340518175,
             "language": "Go",
-            "last_commit": "2026-08-24T21:34:41Z",
+            "last_commit": "2026-08-25T18:45:33Z",
             "owner": "nooga",
             "repo": "let-go",
             "stars": 553
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 747512,
             "language": "Java",
-            "last_commit": "2026-07-29T16:27:44Z",
+            "last_commit": "2026-08-25T19:26:35Z",
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10953
+            "stars": 10954
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-24T18:42:47Z",
             "owner": "carp-lang",
             "repo": "Carp",
-            "stars": 6014
+            "stars": 6016
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 1209858145,
             "language": "C",
-            "last_commit": "2026-08-25T00:29:07Z",
+            "last_commit": "2026-08-25T16:30:47Z",
             "owner": "leifericf",
             "repo": "mino",
             "stars": 26
@@ -336,7 +336,7 @@
             "last_commit": "2026-07-27T15:55:30Z",
             "owner": "borkdude",
             "repo": "cream",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -573,7 +573,7 @@
             "archived": false,
             "id": 1147596150,
             "language": "Clojure",
-            "last_commit": "2026-08-19T17:45:23Z",
+            "last_commit": "2026-08-25T16:30:09Z",
             "owner": "gloathub",
             "repo": "gloat",
             "stars": 52
@@ -639,10 +639,10 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-25T03:49:49Z",
+            "last_commit": "2026-08-25T16:57:21Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 255
+            "stars": 258
           }
         },
         {
@@ -654,7 +654,7 @@
             "archived": false,
             "id": 1239669136,
             "language": "Racket",
-            "last_commit": "2026-08-25T02:22:27Z",
+            "last_commit": "2026-08-25T17:16:03Z",
             "owner": "tompassarelli",
             "repo": "beagle",
             "stars": 23
@@ -729,7 +729,7 @@
             "archived": false,
             "id": 1209858145,
             "language": "C",
-            "last_commit": "2026-08-25T00:29:07Z",
+            "last_commit": "2026-08-25T16:30:47Z",
             "owner": "leifericf",
             "repo": "mino",
             "stars": 26
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 340518175,
             "language": "Go",
-            "last_commit": "2026-08-24T21:34:41Z",
+            "last_commit": "2026-08-25T18:45:33Z",
             "owner": "nooga",
             "repo": "let-go",
             "stars": 553
@@ -825,7 +825,7 @@
             "archived": false,
             "id": 1147596150,
             "language": "Clojure",
-            "last_commit": "2026-08-19T17:45:23Z",
+            "last_commit": "2026-08-25T16:30:09Z",
             "owner": "gloathub",
             "repo": "gloat",
             "stars": 52
@@ -855,10 +855,10 @@
             "archived": false,
             "id": 21428070,
             "language": "C++",
-            "last_commit": "2026-08-24T23:33:25Z",
+            "last_commit": "2026-08-25T19:18:30Z",
             "owner": "jank-lang",
             "repo": "jank",
-            "stars": 3317
+            "stars": 3316
           }
         },
         {
@@ -900,7 +900,7 @@
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-24T21:34:29Z",
+            "last_commit": "2026-08-25T19:20:20Z",
             "owner": "babashka",
             "repo": "babashka",
             "stars": 4593
@@ -930,10 +930,10 @@
             "archived": false,
             "id": 747512,
             "language": "Java",
-            "last_commit": "2026-07-29T16:27:44Z",
+            "last_commit": "2026-08-25T19:26:35Z",
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10953
+            "stars": 10954
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-07-27T15:55:30Z",
             "owner": "borkdude",
             "repo": "cream",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -1128,7 +1128,7 @@
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9388
+            "stars": 9390
           }
         },
         {
@@ -1158,7 +1158,7 @@
             "last_commit": "2026-08-24T18:42:47Z",
             "owner": "carp-lang",
             "repo": "Carp",
-            "stars": 6014
+            "stars": 6016
           }
         },
         {
@@ -1281,10 +1281,10 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-25T03:49:49Z",
+            "last_commit": "2026-08-25T16:57:21Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 255
+            "stars": 258
           }
         },
         {
@@ -1296,7 +1296,7 @@
             "archived": false,
             "id": 1239669136,
             "language": "Racket",
-            "last_commit": "2026-08-25T02:22:27Z",
+            "last_commit": "2026-08-25T17:16:03Z",
             "owner": "tompassarelli",
             "repo": "beagle",
             "stars": 23
@@ -1326,7 +1326,7 @@
             "archived": false,
             "id": 1209858145,
             "language": "C",
-            "last_commit": "2026-08-25T00:29:07Z",
+            "last_commit": "2026-08-25T16:30:47Z",
             "owner": "leifericf",
             "repo": "mino",
             "stars": 26
@@ -1410,7 +1410,7 @@
             "last_commit": "2026-07-27T15:55:30Z",
             "owner": "borkdude",
             "repo": "cream",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -1452,7 +1452,7 @@
             "archived": false,
             "id": 1147596150,
             "language": "Clojure",
-            "last_commit": "2026-08-19T17:45:23Z",
+            "last_commit": "2026-08-25T16:30:09Z",
             "owner": "gloathub",
             "repo": "gloat",
             "stars": 52
@@ -1533,10 +1533,10 @@
             "archived": false,
             "id": 747512,
             "language": "Java",
-            "last_commit": "2026-07-29T16:27:44Z",
+            "last_commit": "2026-08-25T19:26:35Z",
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10953
+            "stars": 10954
           }
         },
         {
@@ -1551,7 +1551,7 @@
             "last_commit": "2025-10-22T16:42:57Z",
             "owner": "kanaka",
             "repo": "mal",
-            "stars": 10721
+            "stars": 10722
           }
         },
         {
@@ -1566,7 +1566,7 @@
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9388
+            "stars": 9390
           }
         },
         {
@@ -1581,7 +1581,7 @@
             "last_commit": "2026-08-24T18:42:47Z",
             "owner": "carp-lang",
             "repo": "Carp",
-            "stars": 6014
+            "stars": 6016
           }
         },
         {
@@ -1608,7 +1608,7 @@
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-24T21:34:29Z",
+            "last_commit": "2026-08-25T19:20:20Z",
             "owner": "babashka",
             "repo": "babashka",
             "stars": 4593
@@ -1638,10 +1638,10 @@
             "archived": false,
             "id": 21428070,
             "language": "C++",
-            "last_commit": "2026-08-24T23:33:25Z",
+            "last_commit": "2026-08-25T19:18:30Z",
             "owner": "jank-lang",
             "repo": "jank",
-            "stars": 3317
+            "stars": 3316
           }
         },
         {
@@ -2013,7 +2013,7 @@
             "archived": false,
             "id": 340518175,
             "language": "Go",
-            "last_commit": "2026-08-24T21:34:41Z",
+            "last_commit": "2026-08-25T18:45:33Z",
             "owner": "nooga",
             "repo": "let-go",
             "stars": 553
@@ -2148,10 +2148,10 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-25T03:49:49Z",
+            "last_commit": "2026-08-25T16:57:21Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 255
+            "stars": 258
           }
         },
         {
@@ -2316,7 +2316,7 @@
             "last_commit": "2026-07-27T15:55:30Z",
             "owner": "borkdude",
             "repo": "cream",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "archived": false,
             "id": 1147596150,
             "language": "Clojure",
-            "last_commit": "2026-08-19T17:45:23Z",
+            "last_commit": "2026-08-25T16:30:09Z",
             "owner": "gloathub",
             "repo": "gloat",
             "stars": 52
@@ -2733,7 +2733,7 @@
             "archived": false,
             "id": 1209858145,
             "language": "C",
-            "last_commit": "2026-08-25T00:29:07Z",
+            "last_commit": "2026-08-25T16:30:47Z",
             "owner": "leifericf",
             "repo": "mino",
             "stars": 26
@@ -2763,7 +2763,7 @@
             "archived": false,
             "id": 1239669136,
             "language": "Racket",
-            "last_commit": "2026-08-25T02:22:27Z",
+            "last_commit": "2026-08-25T17:16:03Z",
             "owner": "tompassarelli",
             "repo": "beagle",
             "stars": 23
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:27.459Z",
+    "last_updated": "2026-08-25T19:50:49.088Z",
     "original_repository": "ilevd/clojure-like",
     "original_repository_id": 1030442505,
     "original_repository_sha": "2eab27058eb43a070739d9390bb613c37c51da95",
