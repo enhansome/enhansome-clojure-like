@@ -6,16 +6,16 @@
         {
           "node_type": "item",
           "title": "Jolt",
-          "description": "Jolt 🔗 ➕ 126⭐",
+          "description": "Jolt 🔗 ➕ 128⭐",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-26T22:08:51Z",
+            "last_commit": "2026-08-27T05:41:11Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 260
+            "stars": 261
           }
         },
         {
@@ -36,31 +36,31 @@
         {
           "node_type": "item",
           "title": "babashka",
-          "description": "babashka 🔗 ➕ 25⭐",
+          "description": "babashka 🔗 ➕ 27⭐",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-26T22:05:43Z",
+            "last_commit": "2026-08-27T11:11:30Z",
             "owner": "babashka",
             "repo": "babashka",
-            "stars": 4594
+            "stars": 4595
           }
         },
         {
           "node_type": "item",
           "title": "Janet",
-          "description": "Janet 🔗 ➕ 25⭐",
+          "description": "Janet 🔗 ➕ 24⭐",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 84521458,
             "language": "C",
-            "last_commit": "2026-08-26T22:15:31Z",
+            "last_commit": "2026-08-27T01:07:02Z",
             "owner": "janet-lang",
             "repo": "janet",
-            "stars": 4369
+            "stars": 4371
           }
         },
         {
@@ -95,8 +95,23 @@
         },
         {
           "node_type": "item",
+          "title": "jank",
+          "description": "jank 🔗 ➕ 20⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21428070,
+            "language": "C++",
+            "last_commit": "2026-08-27T02:33:51Z",
+            "owner": "jank-lang",
+            "repo": "jank",
+            "stars": 3319
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Cljbang",
-          "description": "Cljbang ➕ 21⭐",
+          "description": "Cljbang ➕ 20⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -106,21 +121,6 @@
             "owner": "borkdude",
             "repo": "cljbang.el",
             "stars": 112
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cream",
-          "description": "Cream ➕ 19⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1164002350,
-            "language": "Clojure",
-            "last_commit": "2026-07-27T15:55:30Z",
-            "owner": "borkdude",
-            "repo": "cream",
-            "stars": 167
           }
         },
         {
@@ -140,29 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "jank",
-          "description": "jank 🔗 ➕ 18⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 21428070,
-            "language": "C++",
-            "last_commit": "2026-08-26T22:09:30Z",
-            "owner": "jank-lang",
-            "repo": "jank",
-            "stars": 3319
-          }
-        }
-      ],
-      "title": "🔥 Trending"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "Clojure",
-          "description": "Clojure 🔗 ➕ 17⭐",
+          "description": "Clojure 🔗 ➕ 16⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -171,9 +150,15 @@
             "last_commit": "2026-08-25T19:26:35Z",
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10954
+            "stars": 10955
           }
-        },
+        }
+      ],
+      "title": "🔥 Trending"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Squint",
@@ -187,6 +172,21 @@
             "owner": "squint-cljs",
             "repo": "squint",
             "stars": 898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cream",
+          "description": "Cream ➕ 13⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1164002350,
+            "language": "Clojure",
+            "last_commit": "2026-07-27T15:55:30Z",
+            "owner": "borkdude",
+            "repo": "cream",
+            "stars": 167
           }
         },
         {
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "Glojure",
-          "description": "Glojure ➕ 10⭐",
+          "description": "Glojure ➕ 8⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "cljgo",
-          "description": "cljgo 🔗 ➕ 9⭐",
+          "description": "cljgo 🔗 ➕ 8⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -237,7 +237,7 @@
         {
           "node_type": "item",
           "title": "SCI",
-          "description": "SCI ➕ 8⭐",
+          "description": "SCI ➕ 7⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -262,21 +262,6 @@
             "owner": "csm",
             "repo": "clojurust",
             "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClojureDart",
-          "description": "ClojureDart ➕ 6⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 332686695,
-            "language": "Clojure",
-            "last_commit": "2026-08-24T12:57:41Z",
-            "owner": "Tensegritics",
-            "repo": "ClojureDart",
-            "stars": 1636
           }
         },
         {
@@ -311,6 +296,21 @@
         },
         {
           "node_type": "item",
+          "title": "ClojureDart",
+          "description": "ClojureDart ➕ 5⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332686695,
+            "language": "Clojure",
+            "last_commit": "2026-08-24T12:57:41Z",
+            "owner": "Tensegritics",
+            "repo": "ClojureDart",
+            "stars": 1636
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Sheaf",
           "description": "Sheaf 🔗 ➕ 5⭐",
           "children": [],
@@ -341,8 +341,23 @@
         },
         {
           "node_type": "item",
+          "title": "Basilisp",
+          "description": "Basilisp 🔗 ➕ 4⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133253047,
+            "language": "Python",
+            "last_commit": "2026-08-02T02:35:36Z",
+            "owner": "basilisp-lang",
+            "repo": "basilisp",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Clojerl",
-          "description": "Clojerl 🔗 ➕ 4⭐",
+          "description": "Clojerl 🔗 ➕ 3⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -357,7 +372,7 @@
         {
           "node_type": "item",
           "title": "ClojureCLR",
-          "description": "ClojureCLR ➕ 4⭐",
+          "description": "ClojureCLR ➕ 3⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -367,21 +382,6 @@
             "owner": "clojure",
             "repo": "clojure-clr",
             "stars": 1653
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Basilisp",
-          "description": "Basilisp 🔗 ➕ 4⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 133253047,
-            "language": "Python",
-            "last_commit": "2026-08-02T02:35:36Z",
-            "owner": "basilisp-lang",
-            "repo": "basilisp",
-            "stars": 478
           }
         },
         {
@@ -581,21 +581,6 @@
         },
         {
           "node_type": "item",
-          "title": "uclj",
-          "description": "uclj ➕ 1⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 440647335,
-            "language": "Clojure",
-            "last_commit": "2023-06-03T19:38:06Z",
-            "owner": "erdos",
-            "repo": "uclj",
-            "stars": 154
-          }
-        },
-        {
-          "node_type": "item",
           "title": "clojure-clr-next",
           "description": "clojure-clr-next ➕ 1⭐",
           "children": [],
@@ -648,7 +633,7 @@
         {
           "node_type": "item",
           "title": "Beagle",
-          "description": "Beagle ➕ 1.8k commits",
+          "description": "Beagle ➕ 1.9k commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -669,10 +654,10 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-26T22:08:51Z",
+            "last_commit": "2026-08-27T05:41:11Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 260
+            "stars": 261
           }
         },
         {
@@ -708,7 +693,7 @@
         {
           "node_type": "item",
           "title": "mino",
-          "description": "mino 🔗 ➕ 351 commits",
+          "description": "mino 🔗 ➕ 372 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -723,7 +708,7 @@
         {
           "node_type": "item",
           "title": "Swish",
-          "description": "Swish ➕ 319 commits",
+          "description": "Swish ➕ 312 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -738,7 +723,7 @@
         {
           "node_type": "item",
           "title": "clojurust",
-          "description": "clojurust ➕ 312 commits",
+          "description": "clojurust ➕ 301 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -768,7 +753,7 @@
         {
           "node_type": "item",
           "title": "let-go",
-          "description": "let-go 🔗 ➕ 239 commits",
+          "description": "let-go 🔗 ➕ 228 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -803,23 +788,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Squint",
-          "description": "Squint 🔗 ➕ 173 commits",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 524398721,
-            "language": "Clojure",
-            "last_commit": "2026-08-12T13:08:04Z",
-            "owner": "squint-cljs",
-            "repo": "squint",
-            "stars": 898
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Venice",
-          "description": "Venice ➕ 172 commits",
+          "description": "Venice ➕ 170 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -829,6 +799,21 @@
             "owner": "jlangch",
             "repo": "venice",
             "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squint",
+          "description": "Squint 🔗 ➕ 167 commits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524398721,
+            "language": "Clojure",
+            "last_commit": "2026-08-12T13:08:04Z",
+            "owner": "squint-cljs",
+            "repo": "squint",
+            "stars": 898
           }
         },
         {
@@ -878,21 +863,6 @@
         },
         {
           "node_type": "item",
-          "title": "jank",
-          "description": "jank 🔗 ➕ 99 commits",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 21428070,
-            "language": "C++",
-            "last_commit": "2026-08-26T22:09:30Z",
-            "owner": "jank-lang",
-            "repo": "jank",
-            "stars": 3319
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Bars",
           "description": "Bars 🔗 ➕ 97 commits",
           "children": [],
@@ -908,17 +878,32 @@
         },
         {
           "node_type": "item",
+          "title": "jank",
+          "description": "jank 🔗 ➕ 93 commits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21428070,
+            "language": "C++",
+            "last_commit": "2026-08-27T02:33:51Z",
+            "owner": "jank-lang",
+            "repo": "jank",
+            "stars": 3319
+          }
+        },
+        {
+          "node_type": "item",
           "title": "babashka",
-          "description": "babashka 🔗 ➕ 88 commits",
+          "description": "babashka 🔗 ➕ 92 commits",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-26T22:05:43Z",
+            "last_commit": "2026-08-27T11:11:30Z",
             "owner": "babashka",
             "repo": "babashka",
-            "stars": 4594
+            "stars": 4595
           }
         },
         {
@@ -938,6 +923,21 @@
         },
         {
           "node_type": "item",
+          "title": "Janet",
+          "description": "Janet 🔗 ➕ 68 commits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84521458,
+            "language": "C",
+            "last_commit": "2026-08-27T01:07:02Z",
+            "owner": "janet-lang",
+            "repo": "janet",
+            "stars": 4371
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Clojure",
           "description": "Clojure 🔗 ➕ 67 commits",
           "children": [],
@@ -948,7 +948,7 @@
             "last_commit": "2026-08-25T19:26:35Z",
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10954
+            "stars": 10955
           }
         },
         {
@@ -964,21 +964,6 @@
             "owner": "babashka",
             "repo": "sci",
             "stars": 1381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Janet",
-          "description": "Janet 🔗 ➕ 62 commits",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 84521458,
-            "language": "C",
-            "last_commit": "2026-08-26T22:15:31Z",
-            "owner": "janet-lang",
-            "repo": "janet",
-            "stars": 4369
           }
         },
         {
@@ -1043,6 +1028,21 @@
         },
         {
           "node_type": "item",
+          "title": "Lux",
+          "description": "Lux ➕ 29 commits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35055585,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-26T05:38:52Z",
+            "owner": "LuxLang",
+            "repo": "lux",
+            "stars": 1741
+          }
+        },
+        {
+          "node_type": "item",
           "title": "nbb",
           "description": "nbb ➕ 26 commits",
           "children": [],
@@ -1069,21 +1069,6 @@
             "owner": "candid82",
             "repo": "joker",
             "stars": 1767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lux",
-          "description": "Lux ➕ 22 commits",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 35055585,
-            "language": "Emacs Lisp",
-            "last_commit": "2026-08-26T05:38:52Z",
-            "owner": "LuxLang",
-            "repo": "lux",
-            "stars": 1741
           }
         },
         {
@@ -1188,7 +1173,7 @@
             "last_commit": "2026-07-31T17:41:02Z",
             "owner": "hylang",
             "repo": "hy",
-            "stars": 5434
+            "stars": 5435
           }
         },
         {
@@ -1296,10 +1281,10 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-26T22:08:51Z",
+            "last_commit": "2026-08-27T05:41:11Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 260
+            "stars": 261
           }
         },
         {
@@ -1551,7 +1536,7 @@
             "last_commit": "2026-08-25T19:26:35Z",
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10954
+            "stars": 10955
           }
         },
         {
@@ -1611,7 +1596,7 @@
             "last_commit": "2026-07-31T17:41:02Z",
             "owner": "hylang",
             "repo": "hy",
-            "stars": 5434
+            "stars": 5435
           }
         },
         {
@@ -1623,10 +1608,10 @@
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-26T22:05:43Z",
+            "last_commit": "2026-08-27T11:11:30Z",
             "owner": "babashka",
             "repo": "babashka",
-            "stars": 4594
+            "stars": 4595
           }
         },
         {
@@ -1638,10 +1623,10 @@
             "archived": false,
             "id": 84521458,
             "language": "C",
-            "last_commit": "2026-08-26T22:15:31Z",
+            "last_commit": "2026-08-27T01:07:02Z",
             "owner": "janet-lang",
             "repo": "janet",
-            "stars": 4369
+            "stars": 4371
           }
         },
         {
@@ -1653,7 +1638,7 @@
             "archived": false,
             "id": 21428070,
             "language": "C++",
-            "last_commit": "2026-08-26T22:09:30Z",
+            "last_commit": "2026-08-27T02:33:51Z",
             "owner": "jank-lang",
             "repo": "jank",
             "stars": 3319
@@ -2157,16 +2142,16 @@
         {
           "node_type": "item",
           "title": "Jolt",
-          "description": "Jolt 🔗 A Clojure compiler implemented on top of Chez Scheme Scheme 258⭐",
+          "description": "Jolt 🔗 A Clojure compiler implemented on top of Chez Scheme Scheme 260⭐",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-26T22:08:51Z",
+            "last_commit": "2026-08-27T05:41:11Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 260
+            "stars": 261
           }
         },
         {
@@ -2277,7 +2262,7 @@
         {
           "node_type": "item",
           "title": "ClojureWasm",
-          "description": "ClojureWasm A JVM-free Clojure runtime in Zig — call WebAssembly from Clojure to use libraries written in any language. Zig 184⭐",
+          "description": "ClojureWasm A JVM-free Clojure runtime in Zig — call WebAssembly from Clojure to use libraries written in any language. Zig 185⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2988,7 +2973,7 @@
             "archived": false,
             "id": 91280053,
             "language": "C",
-            "last_commit": "2026-08-25T01:53:59Z",
+            "last_commit": "2026-08-27T01:13:09Z",
             "owner": "Toccata-Lang",
             "repo": "toccata",
             "stars": 8
@@ -3149,10 +3134,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:21:24.095Z",
-    "original_repository": "ilevd/clojure-like",
-    "original_repository_id": 1030442505,
-    "original_repository_sha": "b0e5cce6a1f04cc742ef434de68f38c916327651",
+    "last_updated": "2026-08-27T12:00:23.965Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1030442505,
+      "language": "Clojure",
+      "last_commit": "2026-08-27T07:24:20Z",
+      "owner": "ilevd",
+      "repo": "clojure-like",
+      "stars": 91
+    },
+    "original_repository_sha": "39a9ae0168bc8f2702f140e6887c58dc7ebc38be",
     "enhanced_repository": "enhansome/enhansome-clojure-like",
     "enhanced_repository_description": null,
     "title": "Awesome Clojure-like with stars"
