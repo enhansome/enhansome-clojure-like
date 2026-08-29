@@ -6,32 +6,18 @@
         {
           "node_type": "item",
           "title": "Jolt",
-          "description": "Jolt 🔗 ➕ 128⭐",
+          "description": "Jolt 🔗 ➕ 130⭐",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-28T02:54:21Z",
+            "last_commit": "2026-08-29T02:12:50Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Carp",
-          "description": "Carp ➕ 27⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 49426320,
-            "language": "Haskell",
-            "last_commit": "2026-08-24T18:42:47Z",
-            "owner": "carp-lang",
-            "repo": "Carp",
-            "stars": 6016
-          }
+            "stars": 265
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -42,16 +28,33 @@
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-27T21:15:54Z",
+            "last_commit": "2026-08-28T21:58:20Z",
             "owner": "babashka",
             "repo": "babashka",
-            "stars": 4595
-          }
+            "stars": 4596
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Carp",
+          "description": "Carp ➕ 26⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49426320,
+            "language": "Haskell",
+            "last_commit": "2026-08-24T18:42:47Z",
+            "owner": "carp-lang",
+            "repo": "Carp",
+            "stars": 6018
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Janet",
-          "description": "Janet 🔗 ➕ 24⭐",
+          "description": "Janet 🔗 ➕ 25⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-27T01:07:02Z",
             "owner": "janet-lang",
             "repo": "janet",
-            "stars": 4371
-          }
+            "stars": 4372
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -76,42 +80,13 @@
             "owner": "squint-cljs",
             "repo": "choq",
             "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "let-go",
-          "description": "let-go 🔗 ➕ 21⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 340518175,
-            "language": "Go",
-            "last_commit": "2026-08-27T16:10:51Z",
-            "owner": "nooga",
-            "repo": "let-go",
-            "stars": 553
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jank",
-          "description": "jank 🔗 ➕ 20⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 21428070,
-            "language": "C++",
-            "last_commit": "2026-08-28T02:28:06Z",
-            "owner": "jank-lang",
-            "repo": "jank",
-            "stars": 3319
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Cljbang",
-          "description": "Cljbang ➕ 20⭐",
+          "description": "Cljbang ➕ 19⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -121,7 +96,24 @@
             "owner": "borkdude",
             "repo": "cljbang.el",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Clojure",
+          "description": "Clojure 🔗 ➕ 18⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747512,
+            "language": "Java",
+            "last_commit": "2026-08-25T19:26:35Z",
+            "owner": "clojure",
+            "repo": "clojure",
+            "stars": 10956
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -136,22 +128,40 @@
             "owner": "kanaka",
             "repo": "mal",
             "stars": 10722
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
-          "title": "Clojure",
-          "description": "Clojure 🔗 ➕ 16⭐",
+          "title": "jank",
+          "description": "jank 🔗 ➕ 18⭐",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 747512,
-            "language": "Java",
-            "last_commit": "2026-08-25T19:26:35Z",
-            "owner": "clojure",
-            "repo": "clojure",
-            "stars": 10956
-          }
+            "id": 21428070,
+            "language": "C++",
+            "last_commit": "2026-08-28T21:25:28Z",
+            "owner": "jank-lang",
+            "repo": "jank",
+            "stars": 3320
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "let-go",
+          "description": "let-go 🔗 ➕ 18⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 340518175,
+            "language": "Go",
+            "last_commit": "2026-08-28T22:30:42Z",
+            "owner": "nooga",
+            "repo": "let-go",
+            "stars": 553
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         }
       ],
       "title": "🔥 Trending"
@@ -172,27 +182,13 @@
             "owner": "squint-cljs",
             "repo": "squint",
             "stars": 898
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cream",
-          "description": "Cream ➕ 13⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1164002350,
-            "language": "Clojure",
-            "last_commit": "2026-07-27T15:55:30Z",
-            "owner": "borkdude",
-            "repo": "cream",
-            "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "ClojureWasm",
-          "description": "ClojureWasm ➕ 12⭐",
+          "description": "ClojureWasm ➕ 11⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,42 +198,45 @@
             "owner": "clojurewasm",
             "repo": "ClojureWasm",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
-          "title": "Glojure",
-          "description": "Glojure ➕ 8⭐",
+          "title": "clojurust",
+          "description": "clojurust ➕ 9⭐",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 570750090,
-            "language": "Go",
-            "last_commit": "2026-08-19T17:27:26Z",
-            "owner": "glojurelang",
-            "repo": "glojure",
-            "stars": 724
-          }
+            "id": 1171100503,
+            "language": "Rust",
+            "last_commit": "2026-08-29T00:31:00Z",
+            "owner": "csm",
+            "repo": "clojurust",
+            "stars": 59
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
-          "title": "cljgo",
-          "description": "cljgo 🔗 ➕ 8⭐",
+          "title": "Cream",
+          "description": "Cream ➕ 8⭐",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1297604606,
-            "language": "Go",
-            "last_commit": "2026-08-10T03:53:23Z",
-            "owner": "muthuishere",
-            "repo": "cljgo",
-            "stars": 23
-          }
+            "id": 1164002350,
+            "language": "Clojure",
+            "last_commit": "2026-07-27T15:55:30Z",
+            "owner": "borkdude",
+            "repo": "cream",
+            "stars": 167
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "SCI",
-          "description": "SCI ➕ 7⭐",
+          "description": "SCI ➕ 6⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -246,23 +245,9 @@
             "last_commit": "2026-08-24T15:17:05Z",
             "owner": "babashka",
             "repo": "sci",
-            "stars": 1381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clojurust",
-          "description": "clojurust ➕ 7⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1171100503,
-            "language": "Rust",
-            "last_commit": "2026-08-26T08:21:45Z",
-            "owner": "csm",
-            "repo": "clojurust",
-            "stars": 57
-          }
+            "stars": 1382
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -277,7 +262,8 @@
             "owner": "squint-cljs",
             "repo": "cherry",
             "stars": 660
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -292,22 +278,40 @@
             "owner": "leifericf",
             "repo": "mino",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
-          "title": "ClojureDart",
-          "description": "ClojureDart ➕ 5⭐",
+          "title": "cljgo",
+          "description": "cljgo 🔗 ➕ 6⭐",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 332686695,
-            "language": "Clojure",
-            "last_commit": "2026-08-24T12:57:41Z",
-            "owner": "Tensegritics",
-            "repo": "ClojureDart",
-            "stars": 1636
-          }
+            "id": 1297604606,
+            "language": "Go",
+            "last_commit": "2026-08-10T03:53:23Z",
+            "owner": "muthuishere",
+            "repo": "cljgo",
+            "stars": 23
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Glojure",
+          "description": "Glojure ➕ 5⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 570750090,
+            "language": "Go",
+            "last_commit": "2026-08-19T17:27:26Z",
+            "owner": "glojurelang",
+            "repo": "glojure",
+            "stars": 724
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -321,23 +325,25 @@
             "last_commit": "2026-08-27T18:41:09Z",
             "owner": "sheaf-lang",
             "repo": "sheaf",
-            "stars": 54
-          }
+            "stars": 55
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
-          "title": "Gloat",
-          "description": "Gloat ➕ 5⭐",
+          "title": "ClojureDart",
+          "description": "ClojureDart ➕ 4⭐",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1147596150,
+            "id": 332686695,
             "language": "Clojure",
-            "last_commit": "2026-08-25T16:30:09Z",
-            "owner": "gloathub",
-            "repo": "gloat",
-            "stars": 52
-          }
+            "last_commit": "2026-08-24T12:57:41Z",
+            "owner": "Tensegritics",
+            "repo": "ClojureDart",
+            "stars": 1636
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -352,7 +358,24 @@
             "owner": "basilisp-lang",
             "repo": "basilisp",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Gloat",
+          "description": "Gloat ➕ 4⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1147596150,
+            "language": "Clojure",
+            "last_commit": "2026-08-25T16:30:09Z",
+            "owner": "gloathub",
+            "repo": "gloat",
+            "stars": 52
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "clojerl",
             "repo": "clojerl",
             "stars": 1714
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "clojure",
             "repo": "clojure-clr",
             "stars": 1653
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -397,22 +422,24 @@
             "owner": "baku89",
             "repo": "glisp",
             "stars": 1180
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
-          "title": "Lux",
-          "description": "Lux ➕ 2⭐",
+          "title": "Fennel",
+          "description": "Fennel ↗ 🔗 ➕ 2⭐",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 35055585,
-            "language": "Emacs Lisp",
-            "last_commit": "2026-08-26T05:38:52Z",
-            "owner": "LuxLang",
-            "repo": "lux",
-            "stars": 1740
-          }
+            "id": 65159560,
+            "language": "Fennel",
+            "last_commit": "2026-02-08T04:40:28Z",
+            "owner": "bakpakin",
+            "repo": "Fennel",
+            "stars": 2746
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "babashka",
             "repo": "nbb",
             "stars": 964
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -441,8 +469,9 @@
             "last_commit": "2026-08-24T06:44:38Z",
             "owner": "phel-lang",
             "repo": "phel-lang",
-            "stars": 521
-          }
+            "stars": 523
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "infiniteNIL",
             "repo": "swish",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -472,22 +502,8 @@
             "owner": "mll",
             "repo": "clojure-rt",
             "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fennel",
-          "description": "Fennel ↗ 🔗 ➕ 1⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 65159560,
-            "language": "Fennel",
-            "last_commit": "2026-02-08T04:40:28Z",
-            "owner": "bakpakin",
-            "repo": "Fennel",
-            "stars": 2745
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -502,37 +518,24 @@
             "owner": "pixie-lang",
             "repo": "pixie",
             "stars": 2358
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
-          "title": "Joker",
-          "description": "Joker 🔗 ➕ 1⭐",
+          "title": "Lux",
+          "description": "Lux ➕ 1⭐",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 76160954,
-            "language": "Go",
-            "last_commit": "2026-08-23T02:52:39Z",
-            "owner": "candid82",
-            "repo": "joker",
-            "stars": 1767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClojureRS",
-          "description": "ClojureRS ➕ 1⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 249300989,
-            "language": "Rust",
-            "last_commit": "2023-04-16T20:00:11Z",
-            "owner": "clojure-rs",
-            "repo": "ClojureRS",
-            "stars": 980
-          }
+            "id": 35055585,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-26T05:38:52Z",
+            "owner": "LuxLang",
+            "repo": "lux",
+            "stars": 1740
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -547,7 +550,8 @@
             "owner": "chr15m",
             "repo": "flk",
             "stars": 507
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -562,7 +566,8 @@
             "owner": "ruricolist",
             "repo": "cloture",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -577,7 +582,8 @@
             "owner": "kalai-transpiler",
             "repo": "kalai",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -592,7 +598,8 @@
             "owner": "dmiller",
             "repo": "clojure-clr-next",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -607,7 +614,8 @@
             "owner": "lingy-lang",
             "repo": "lingy",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -622,7 +630,8 @@
             "owner": "katehonz",
             "repo": "bars-lang",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         }
       ],
       "title": "Show more"
@@ -633,7 +642,7 @@
         {
           "node_type": "item",
           "title": "Beagle",
-          "description": "Beagle ➕ 1.9k commits",
+          "description": "Beagle ➕ 1.8k commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -643,7 +652,8 @@
             "owner": "tompassarelli",
             "repo": "beagle",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -654,11 +664,12 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-28T02:54:21Z",
+            "last_commit": "2026-08-29T02:12:50Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 263
-          }
+            "stars": 265
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -673,12 +684,13 @@
             "owner": "muthuishere",
             "repo": "cljgo",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Phel",
-          "description": "Phel 🔗 ➕ 430 commits",
+          "description": "Phel 🔗 ➕ 421 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,8 +699,9 @@
             "last_commit": "2026-08-24T06:44:38Z",
             "owner": "phel-lang",
             "repo": "phel-lang",
-            "stars": 521
-          }
+            "stars": 523
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -703,12 +716,13 @@
             "owner": "leifericf",
             "repo": "mino",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Swish",
-          "description": "Swish ➕ 312 commits",
+          "description": "Swish ➕ 302 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -718,22 +732,8 @@
             "owner": "infiniteNIL",
             "repo": "swish",
             "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clojurust",
-          "description": "clojurust ➕ 301 commits",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1171100503,
-            "language": "Rust",
-            "last_commit": "2026-08-26T08:21:45Z",
-            "owner": "csm",
-            "repo": "clojurust",
-            "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -748,22 +748,40 @@
             "owner": "clojurewasm",
             "repo": "ClojureWasm",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "clojurust",
+          "description": "clojurust ➕ 291 commits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1171100503,
+            "language": "Rust",
+            "last_commit": "2026-08-29T00:31:00Z",
+            "owner": "csm",
+            "repo": "clojurust",
+            "stars": 59
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "let-go",
-          "description": "let-go 🔗 ➕ 228 commits",
+          "description": "let-go 🔗 ➕ 220 commits",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 340518175,
             "language": "Go",
-            "last_commit": "2026-08-27T16:10:51Z",
+            "last_commit": "2026-08-28T22:30:42Z",
             "owner": "nooga",
             "repo": "let-go",
             "stars": 553
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -778,7 +796,8 @@
             "owner": "glojurelang",
             "repo": "glojure",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         }
       ],
       "title": "⚡ Most active"
@@ -799,12 +818,13 @@
             "owner": "jlangch",
             "repo": "venice",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Squint",
-          "description": "Squint 🔗 ➕ 167 commits",
+          "description": "Squint 🔗 ➕ 165 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -814,7 +834,8 @@
             "owner": "squint-cljs",
             "repo": "squint",
             "stars": 898
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -829,12 +850,13 @@
             "owner": "gloathub",
             "repo": "gloat",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Sheaf",
-          "description": "Sheaf 🔗 ➕ 114 commits",
+          "description": "Sheaf 🔗 ➕ 118 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -843,8 +865,25 @@
             "last_commit": "2026-08-27T18:41:09Z",
             "owner": "sheaf-lang",
             "repo": "sheaf",
-            "stars": 54
-          }
+            "stars": 55
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "babashka",
+          "description": "babashka 🔗 ➕ 100 commits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201467090,
+            "language": "Clojure",
+            "last_commit": "2026-08-28T21:58:20Z",
+            "owner": "babashka",
+            "repo": "babashka",
+            "stars": 4596
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -859,7 +898,8 @@
             "owner": "borkdude",
             "repo": "cljbang.el",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -874,37 +914,24 @@
             "owner": "katehonz",
             "repo": "bars-lang",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "jank",
-          "description": "jank 🔗 ➕ 93 commits",
+          "description": "jank 🔗 ➕ 88 commits",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 21428070,
             "language": "C++",
-            "last_commit": "2026-08-28T02:28:06Z",
+            "last_commit": "2026-08-28T21:25:28Z",
             "owner": "jank-lang",
             "repo": "jank",
-            "stars": 3319
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "babashka",
-          "description": "babashka 🔗 ➕ 92 commits",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 201467090,
-            "language": "Clojure",
-            "last_commit": "2026-08-27T21:15:54Z",
-            "owner": "babashka",
-            "repo": "babashka",
-            "stars": 4595
-          }
+            "stars": 3320
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -919,22 +946,8 @@
             "owner": "squint-cljs",
             "repo": "choq",
             "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Janet",
-          "description": "Janet 🔗 ➕ 68 commits",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 84521458,
-            "language": "C",
-            "last_commit": "2026-08-27T01:07:02Z",
-            "owner": "janet-lang",
-            "repo": "janet",
-            "stars": 4371
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -949,7 +962,24 @@
             "owner": "clojure",
             "repo": "clojure",
             "stars": 10956
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Janet",
+          "description": "Janet 🔗 ➕ 66 commits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84521458,
+            "language": "C",
+            "last_commit": "2026-08-27T01:07:02Z",
+            "owner": "janet-lang",
+            "repo": "janet",
+            "stars": 4372
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -963,8 +993,9 @@
             "last_commit": "2026-08-24T15:17:05Z",
             "owner": "babashka",
             "repo": "sci",
-            "stars": 1381
-          }
+            "stars": 1382
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1010,8 @@
             "owner": "BuddhiLW",
             "repo": "clojure-elisp",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1026,8 @@
             "owner": "rcarmo",
             "repo": "go-joker",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1042,8 @@
             "owner": "frankadrian314159",
             "repo": "fol",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1058,8 @@
             "owner": "squint-cljs",
             "repo": "cherry",
             "stars": 660
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1074,8 @@
             "owner": "LuxLang",
             "repo": "lux",
             "stars": 1740
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1054,12 +1090,13 @@
             "owner": "babashka",
             "repo": "nbb",
             "stars": 964
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Joker",
-          "description": "Joker 🔗 ➕ 24 commits",
+          "description": "Joker 🔗 ➕ 20 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1069,7 +1106,8 @@
             "owner": "candid82",
             "repo": "joker",
             "stars": 1767
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1122,8 @@
             "owner": "borkdude",
             "repo": "cream",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1138,8 @@
             "owner": "Tensegritics",
             "repo": "ClojureDart",
             "stars": 1636
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1154,8 @@
             "owner": "ruricolist",
             "repo": "cloture",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1128,8 +1169,9 @@
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9390
-          }
+            "stars": 9391
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1144,12 +1186,13 @@
             "owner": "basilisp-lang",
             "repo": "basilisp",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Carp",
-          "description": "Carp ➕ 7 commits",
+          "description": "Carp ➕ 6 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1158,8 +1201,9 @@
             "last_commit": "2026-08-24T18:42:47Z",
             "owner": "carp-lang",
             "repo": "Carp",
-            "stars": 6016
-          }
+            "stars": 6018
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1173,8 +1217,9 @@
             "last_commit": "2026-07-31T17:41:02Z",
             "owner": "hylang",
             "repo": "hy",
-            "stars": 5435
-          }
+            "stars": 5436
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1234,8 @@
             "owner": "clojure",
             "repo": "clojure-clr",
             "stars": 1653
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1250,8 @@
             "owner": "glycerine",
             "repo": "zygomys",
             "stars": 1787
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         }
       ],
       "title": "Show more"
@@ -1225,7 +1272,8 @@
             "owner": "squint-cljs",
             "repo": "choq",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1240,7 +1288,8 @@
             "owner": "borkdude",
             "repo": "cljbang.el",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1255,7 +1304,8 @@
             "owner": "muthuishere",
             "repo": "cljgo",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1270,7 +1320,8 @@
             "owner": "katehonz",
             "repo": "bars-lang",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1281,11 +1332,12 @@
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-28T02:54:21Z",
+            "last_commit": "2026-08-29T02:12:50Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 263
-          }
+            "stars": 265
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1300,7 +1352,8 @@
             "owner": "tompassarelli",
             "repo": "beagle",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1315,7 +1368,8 @@
             "owner": "clojure-py",
             "repo": "clojure-py",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1330,7 +1384,8 @@
             "owner": "leifericf",
             "repo": "mino",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         }
       ],
       "title": "✨ Newest"
@@ -1351,7 +1406,8 @@
             "owner": "lattiahirvio",
             "repo": "Clojette",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1422,8 @@
             "owner": "clojurewasm",
             "repo": "Kiso",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1377,11 +1434,12 @@
             "archived": false,
             "id": 1171100503,
             "language": "Rust",
-            "last_commit": "2026-08-26T08:21:45Z",
+            "last_commit": "2026-08-29T00:31:00Z",
             "owner": "csm",
             "repo": "clojurust",
-            "stars": 57
-          }
+            "stars": 59
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1392,11 +1450,12 @@
             "archived": false,
             "id": 1164239406,
             "language": "TypeScript",
-            "last_commit": "2026-08-01T14:30:34Z",
+            "last_commit": "2026-08-28T19:02:22Z",
             "owner": "RegiByte",
             "repo": "cljam",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1411,7 +1470,8 @@
             "owner": "borkdude",
             "repo": "cream",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1486,8 @@
             "owner": "HectorIFC",
             "repo": "hc-lisp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1502,8 @@
             "owner": "infiniteNIL",
             "repo": "swish",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1518,8 @@
             "owner": "gloathub",
             "repo": "gloat",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1471,7 +1534,8 @@
             "owner": "clojurewasm",
             "repo": "ClojureWasm",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1550,8 @@
             "owner": "frankadrian314159",
             "repo": "fol",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1500,8 +1565,9 @@
             "last_commit": "2026-08-27T18:41:09Z",
             "owner": "sheaf-lang",
             "repo": "sheaf",
-            "stars": 54
-          }
+            "stars": 55
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1582,8 @@
             "owner": "BuddhiLW",
             "repo": "clojure-elisp",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         }
       ],
       "title": "Show more"
@@ -1537,7 +1604,8 @@
             "owner": "clojure",
             "repo": "clojure",
             "stars": 10956
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1552,7 +1620,8 @@
             "owner": "kanaka",
             "repo": "mal",
             "stars": 10722
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1566,8 +1635,9 @@
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9390
-          }
+            "stars": 9391
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1581,8 +1651,9 @@
             "last_commit": "2026-08-24T18:42:47Z",
             "owner": "carp-lang",
             "repo": "Carp",
-            "stars": 6016
-          }
+            "stars": 6018
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1596,8 +1667,9 @@
             "last_commit": "2026-07-31T17:41:02Z",
             "owner": "hylang",
             "repo": "hy",
-            "stars": 5435
-          }
+            "stars": 5436
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1608,11 +1680,12 @@
             "archived": false,
             "id": 201467090,
             "language": "Clojure",
-            "last_commit": "2026-08-27T21:15:54Z",
+            "last_commit": "2026-08-28T21:58:20Z",
             "owner": "babashka",
             "repo": "babashka",
-            "stars": 4595
-          }
+            "stars": 4596
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1626,8 +1699,9 @@
             "last_commit": "2026-08-27T01:07:02Z",
             "owner": "janet-lang",
             "repo": "janet",
-            "stars": 4371
-          }
+            "stars": 4372
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1638,11 +1712,12 @@
             "archived": false,
             "id": 21428070,
             "language": "C++",
-            "last_commit": "2026-08-28T02:28:06Z",
+            "last_commit": "2026-08-28T21:25:28Z",
             "owner": "jank-lang",
             "repo": "jank",
-            "stars": 3319
-          }
+            "stars": 3320
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1656,8 +1731,9 @@
             "last_commit": "2026-02-08T04:40:28Z",
             "owner": "bakpakin",
             "repo": "Fennel",
-            "stars": 2745
-          }
+            "stars": 2746
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1672,7 +1748,8 @@
             "owner": "pixie-lang",
             "repo": "pixie",
             "stars": 2358
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1687,7 +1764,8 @@
             "owner": "anmonteiro",
             "repo": "lumo",
             "stars": 1873
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1702,7 +1780,8 @@
             "owner": "glycerine",
             "repo": "zygomys",
             "stars": 1787
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1717,7 +1796,8 @@
             "owner": "candid82",
             "repo": "joker",
             "stars": 1767
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1732,7 +1812,8 @@
             "owner": "LuxLang",
             "repo": "lux",
             "stars": 1740
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1747,7 +1828,8 @@
             "owner": "clojerl",
             "repo": "clojerl",
             "stars": 1714
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1762,7 +1844,8 @@
             "owner": "arcadia-unity",
             "repo": "Arcadia",
             "stars": 1686
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1777,7 +1860,8 @@
             "owner": "clojure",
             "repo": "clojure-clr",
             "stars": 1653
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1792,7 +1876,8 @@
             "owner": "Tensegritics",
             "repo": "ClojureDart",
             "stars": 1636
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1806,8 +1891,9 @@
             "last_commit": "2026-08-24T15:17:05Z",
             "owner": "babashka",
             "repo": "sci",
-            "stars": 1381
-          }
+            "stars": 1382
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1822,7 +1908,8 @@
             "owner": "baku89",
             "repo": "glisp",
             "stars": 1180
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1837,7 +1924,8 @@
             "owner": "nakkaya",
             "repo": "ferret",
             "stars": 1125
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1852,7 +1940,8 @@
             "owner": "planck-repl",
             "repo": "planck",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1867,7 +1956,8 @@
             "owner": "wisp-lang",
             "repo": "wisp",
             "stars": 986
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1882,7 +1972,8 @@
             "owner": "clojure-rs",
             "repo": "ClojureRS",
             "stars": 980
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1897,7 +1988,8 @@
             "owner": "babashka",
             "repo": "nbb",
             "stars": 964
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1912,7 +2004,8 @@
             "owner": "schani",
             "repo": "clojurec",
             "stars": 918
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1927,7 +2020,8 @@
             "owner": "squint-cljs",
             "repo": "squint",
             "stars": 898
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1942,7 +2036,8 @@
             "owner": "glojurelang",
             "repo": "glojure",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1957,7 +2052,8 @@
             "owner": "tpope",
             "repo": "timl",
             "stars": 679
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1972,7 +2068,8 @@
             "owner": "squint-cljs",
             "repo": "cherry",
             "stars": 660
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -1987,7 +2084,8 @@
             "owner": "artagnon",
             "repo": "rhine-ml",
             "stars": 634
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2002,7 +2100,8 @@
             "owner": "takeoutweight",
             "repo": "clojure-scheme",
             "stars": 566
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2013,11 +2112,12 @@
             "archived": false,
             "id": 340518175,
             "language": "Go",
-            "last_commit": "2026-08-27T16:10:51Z",
+            "last_commit": "2026-08-28T22:30:42Z",
             "owner": "nooga",
             "repo": "let-go",
             "stars": 553
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2032,7 +2132,8 @@
             "owner": "alandipert",
             "repo": "gherkin",
             "stars": 522
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2046,8 +2147,9 @@
             "last_commit": "2026-08-24T06:44:38Z",
             "owner": "phel-lang",
             "repo": "phel-lang",
-            "stars": 521
-          }
+            "stars": 523
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2062,7 +2164,8 @@
             "owner": "chr15m",
             "repo": "flk",
             "stars": 507
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2077,7 +2180,8 @@
             "owner": "lantiga",
             "repo": "ki",
             "stars": 480
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2092,7 +2196,8 @@
             "owner": "basilisp-lang",
             "repo": "basilisp",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2107,7 +2212,8 @@
             "owner": "joxa",
             "repo": "joxa",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2122,7 +2228,8 @@
             "owner": "ruricolist",
             "repo": "cloture",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2137,22 +2244,24 @@
             "owner": "dundalek",
             "repo": "liz",
             "stars": 291
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Jolt",
-          "description": "Jolt 🔗 A Clojure compiler implemented on top of Chez Scheme Scheme 260⭐",
+          "description": "Jolt 🔗 A Clojure compiler implemented on top of Chez Scheme Scheme 264⭐",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1256501697,
             "language": "Scheme",
-            "last_commit": "2026-08-28T02:54:21Z",
+            "last_commit": "2026-08-29T02:12:50Z",
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 263
-          }
+            "stars": 265
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2167,7 +2276,8 @@
             "owner": "kalai-transpiler",
             "repo": "kalai",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2182,7 +2292,8 @@
             "owner": "galdolber",
             "repo": "clojure-objc",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2197,7 +2308,8 @@
             "owner": "swadey",
             "repo": "LispSyntax.jl",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2212,7 +2324,8 @@
             "owner": "joinr",
             "repo": "clclojure",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2227,7 +2340,8 @@
             "owner": "lokke-org",
             "repo": "lokke",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2242,7 +2356,8 @@
             "owner": "hraberg",
             "repo": "cljs2go",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2257,7 +2372,8 @@
             "owner": "dirkschumacher",
             "repo": "llr",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2272,7 +2388,8 @@
             "owner": "clojurewasm",
             "repo": "ClojureWasm",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2287,7 +2404,8 @@
             "owner": "venantius",
             "repo": "glojure",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2302,7 +2420,8 @@
             "owner": "borkdude",
             "repo": "cream",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2317,7 +2436,8 @@
             "owner": "timothypratley",
             "repo": "rustly",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2332,7 +2452,8 @@
             "owner": "erdos",
             "repo": "uclj",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2347,7 +2468,8 @@
             "owner": "Zelex",
             "repo": "jo_clojure",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2362,7 +2484,8 @@
             "owner": "raph-amiard",
             "repo": "clojurescript-lua",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2377,7 +2500,8 @@
             "owner": "dmiller",
             "repo": "clojure-clr-next",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2392,7 +2516,8 @@
             "owner": "austinzheng",
             "repo": "Cormorant",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2407,7 +2532,8 @@
             "owner": "nathell",
             "repo": "lithium",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2422,12 +2548,13 @@
             "owner": "kapok-lang",
             "repo": "kapok",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "Cljbang",
-          "description": "Cljbang A Clojure-like language that runs as Emacs Lisp. Emacs Lisp 112⭐",
+          "description": "Cljbang A Clojure-like language that runs as Emacs Lisp. Emacs Lisp 113⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2437,7 +2564,8 @@
             "owner": "borkdude",
             "repo": "cljbang.el",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2452,7 +2580,8 @@
             "owner": "apricot-lang",
             "repo": "apricot",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2467,7 +2596,8 @@
             "owner": "ohpauleez",
             "repo": "cljs-terra",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2482,7 +2612,8 @@
             "owner": "rekola",
             "repo": "nanoclj",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2497,7 +2628,8 @@
             "owner": "ClojureHaxe",
             "repo": "ClojureHaxe",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2512,22 +2644,24 @@
             "owner": "bridje",
             "repo": "bridje",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
           "title": "clojurust",
-          "description": "clojurust Clojure and Rust Rust 57⭐",
+          "description": "clojurust Clojure and Rust Rust 59⭐",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1171100503,
             "language": "Rust",
-            "last_commit": "2026-08-26T08:21:45Z",
+            "last_commit": "2026-08-29T00:31:00Z",
             "owner": "csm",
             "repo": "clojurust",
-            "stars": 57
-          }
+            "stars": 59
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2542,7 +2676,8 @@
             "owner": "clojurust",
             "repo": "clojurust",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2556,8 +2691,9 @@
             "last_commit": "2026-08-27T18:41:09Z",
             "owner": "sheaf-lang",
             "repo": "sheaf",
-            "stars": 54
-          }
+            "stars": 55
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2572,7 +2708,8 @@
             "owner": "gloathub",
             "repo": "gloat",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2587,7 +2724,8 @@
             "owner": "tcard",
             "repo": "gojure",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2602,7 +2740,8 @@
             "owner": "rhysd",
             "repo": "Crisp",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2617,7 +2756,8 @@
             "owner": "jlangch",
             "repo": "venice",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2632,7 +2772,8 @@
             "owner": "lingy-lang",
             "repo": "lingy",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2647,7 +2788,8 @@
             "owner": "chimez",
             "repo": "clojure-rust",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2662,7 +2804,8 @@
             "owner": "mikera",
             "repo": "magic",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2677,7 +2820,8 @@
             "owner": "frankadrian314159",
             "repo": "fol",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2692,7 +2836,8 @@
             "owner": "kimtg",
             "repo": "Javelin",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2707,7 +2852,8 @@
             "owner": "BuddhiLW",
             "repo": "clojure-elisp",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2722,7 +2868,8 @@
             "owner": "rcarmo",
             "repo": "go-joker",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2737,7 +2884,8 @@
             "owner": "leifericf",
             "repo": "mino",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2752,7 +2900,8 @@
             "owner": "daveyarwood",
             "repo": "rubylisp",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2767,7 +2916,8 @@
             "owner": "tompassarelli",
             "repo": "beagle",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2782,7 +2932,8 @@
             "owner": "chr15m",
             "repo": "frock",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2797,7 +2948,8 @@
             "owner": "muthuishere",
             "repo": "cljgo",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2812,7 +2964,8 @@
             "owner": "squint-cljs",
             "repo": "choq",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2827,7 +2980,8 @@
             "owner": "shybyte",
             "repo": "risp",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2842,7 +2996,8 @@
             "owner": "naomijub",
             "repo": "ClojuRS",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2857,7 +3012,8 @@
             "owner": "jgdavey",
             "repo": "hammock",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2872,7 +3028,8 @@
             "owner": "infiniteNIL",
             "repo": "swish",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2887,7 +3044,8 @@
             "owner": "kimtg",
             "repo": "Closhure",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2902,7 +3060,8 @@
             "owner": "clojurewasm",
             "repo": "Kiso",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2917,7 +3076,8 @@
             "owner": "mll",
             "repo": "clojure-rt",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2932,7 +3092,8 @@
             "owner": "baguette",
             "repo": "lemma",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2947,7 +3108,8 @@
             "owner": "vic",
             "repo": "rouge",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2962,7 +3124,8 @@
             "owner": "sigmasoldi3r",
             "repo": "charon-lang",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2977,7 +3140,8 @@
             "owner": "Toccata-Lang",
             "repo": "toccata",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -2992,7 +3156,8 @@
             "owner": "lattiahirvio",
             "repo": "Clojette",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -3003,11 +3168,12 @@
             "archived": false,
             "id": 1164239406,
             "language": "TypeScript",
-            "last_commit": "2026-08-01T14:30:34Z",
+            "last_commit": "2026-08-28T19:02:22Z",
             "owner": "RegiByte",
             "repo": "cljam",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -3022,7 +3188,8 @@
             "owner": "delonnewman",
             "repo": "zera-5",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -3037,7 +3204,8 @@
             "owner": "clojure-metal",
             "repo": "clojure-metal",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -3052,7 +3220,8 @@
             "owner": "rusjure",
             "repo": "rusjure",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -3067,7 +3236,8 @@
             "owner": "katehonz",
             "repo": "bars-lang",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -3082,7 +3252,8 @@
             "owner": "halgari",
             "repo": "clarp",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -3097,7 +3268,8 @@
             "owner": "mrsekut",
             "repo": "purisp",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -3112,7 +3284,8 @@
             "owner": "clojure-py",
             "repo": "clojure-py",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         },
         {
           "node_type": "item",
@@ -3127,24 +3300,25 @@
             "owner": "HectorIFC",
             "repo": "hc-lisp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
         }
       ],
       "title": "📋 Main"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:37:15.279Z",
+    "last_updated": "2026-08-29T02:19:28.125Z",
     "original_repository_info": {
       "archived": false,
       "id": 1030442505,
       "language": "Clojure",
-      "last_commit": "2026-08-27T07:24:20Z",
+      "last_commit": "2026-08-28T10:06:28Z",
       "owner": "ilevd",
       "repo": "clojure-like",
       "stars": 91
     },
-    "original_repository_sha": "39a9ae0168bc8f2702f140e6887c58dc7ebc38be",
+    "original_repository_sha": "60d0b4ac3cfa16ab029528088a0a3ecdfd719847",
     "enhanced_repository": "enhansome/enhansome-clojure-like",
     "enhanced_repository_description": null,
     "title": "Awesome Clojure-like with stars"
