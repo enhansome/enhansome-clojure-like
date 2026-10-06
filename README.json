@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Jolt",
-          "description": "Jolt 🔗 ➕ 174⭐",
+          "description": "Jolt 🔗 ➕ 175⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 1256501697,
             "language": "Scheme",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-04T20:05:23Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-05T23:19:41Z",
+            "open_issues": 15,
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "chez",
               "chez-scheme",
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "Janet",
-          "description": "Janet 🔗 ➕ 87⭐",
+          "description": "Janet 🔗 ➕ 88⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,8 +45,8 @@
             "id": 84521458,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-04T13:39:07Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-05T23:03:06Z",
+            "open_issues": 66,
             "owner": "janet-lang",
             "repo": "janet",
             "stars": 4440,
@@ -80,7 +80,7 @@
             "open_issues": 141,
             "owner": "carp-lang",
             "repo": "Carp",
-            "stars": 6057,
+            "stars": 6060,
             "topics": [
               "functional",
               "functional-programming",
@@ -99,7 +99,7 @@
         {
           "node_type": "item",
           "title": "babashka",
-          "description": "babashka 🔗 ➕ 38⭐",
+          "description": "babashka 🔗 ➕ 39⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -112,7 +112,7 @@
             "open_issues": 31,
             "owner": "babashka",
             "repo": "babashka",
-            "stars": 4615,
+            "stars": 4614,
             "topics": [
               "babashka",
               "bash",
@@ -126,40 +126,8 @@
         },
         {
           "node_type": "item",
-          "title": "jank",
-          "description": "jank 🔗 ➕ 38⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "jank is the native Clojure dialect with seamless C++ interop.",
-            "homepage": "https://jank-lang.org",
-            "id": 21428070,
-            "language": "C++",
-            "license": "MPL-2.0",
-            "last_commit": "2026-09-27T20:16:50Z",
-            "open_issues": 78,
-            "owner": "jank-lang",
-            "repo": "jank",
-            "stars": 3338,
-            "topics": [
-              "clojure",
-              "compiler",
-              "cpp",
-              "functional-programming",
-              "jit",
-              "language",
-              "lisp",
-              "llvm",
-              "native",
-              "programming-language"
-            ]
-          },
-          "first_seen": "2026-08-29T02:19:28.125Z"
-        },
-        {
-          "node_type": "item",
           "title": "mal",
-          "description": "mal ➕ 36⭐",
+          "description": "mal ➕ 38⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +168,68 @@
         },
         {
           "node_type": "item",
+          "title": "jank",
+          "description": "jank 🔗 ➕ 38⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "jank is the native Clojure dialect with seamless C++ interop.",
+            "homepage": "https://jank-lang.org",
+            "id": 21428070,
+            "language": "C++",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-06T00:05:35Z",
+            "open_issues": 78,
+            "owner": "jank-lang",
+            "repo": "jank",
+            "stars": 3339,
+            "topics": [
+              "clojure",
+              "compiler",
+              "cpp",
+              "functional-programming",
+              "jit",
+              "language",
+              "lisp",
+              "llvm",
+              "native",
+              "programming-language"
+            ]
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "let-go",
+          "description": "let-go 🔗 ➕ 29⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Almost Clojure written in Go.",
+            "homepage": "https://nooga.github.io/let-go",
+            "id": 340518175,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-05T18:32:52Z",
+            "open_issues": 178,
+            "owner": "nooga",
+            "repo": "let-go",
+            "stars": 568,
+            "topics": [
+              "clojure",
+              "compiler",
+              "go",
+              "interpreter",
+              "scripting-language",
+              "vm"
+            ]
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "Clojure",
-          "description": "Clojure 🔗 ➕ 28⭐",
+          "description": "Clojure 🔗 ➕ 27⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -216,34 +244,6 @@
             "repo": "clojure",
             "stars": 10967,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:19:28.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "let-go",
-          "description": "let-go 🔗 ➕ 28⭐",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Almost Clojure written in Go.",
-            "homepage": "https://nooga.github.io/let-go",
-            "id": 340518175,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-10-04T20:18:01Z",
-            "open_issues": 182,
-            "owner": "nooga",
-            "repo": "let-go",
-            "stars": 568,
-            "topics": [
-              "clojure",
-              "compiler",
-              "go",
-              "interpreter",
-              "scripting-language",
-              "vm"
-            ]
           },
           "first_seen": "2026-08-29T02:19:28.125Z"
         },
@@ -285,11 +285,11 @@
             "id": 332686695,
             "language": "Clojure",
             "license": null,
-            "last_commit": "2026-10-04T19:21:17Z",
+            "last_commit": "2026-10-05T15:33:34Z",
             "open_issues": 125,
             "owner": "Tensegritics",
             "repo": "ClojureDart",
-            "stars": 1647,
+            "stars": 1648,
             "topics": [
               "clojure",
               "dart",
@@ -314,11 +314,11 @@
                 "id": 524398721,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-02T12:07:14Z",
+                "last_commit": "2026-10-05T21:14:01Z",
                 "open_issues": 21,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 904,
+                "stars": 905,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -355,29 +355,8 @@
             },
             {
               "node_type": "item",
-              "title": "clojurust",
-              "description": "clojurust ➕ 14⭐",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Clojure and Rust",
-                "homepage": null,
-                "id": 1171100503,
-                "language": "Rust",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-04T22:18:01Z",
-                "open_issues": 29,
-                "owner": "csm",
-                "repo": "clojurust",
-                "stars": 66,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
               "title": "Fennel",
-              "description": "Fennel ↗ 🔗 ➕ 13⭐",
+              "description": "Fennel ↗ 🔗 ➕ 14⭐",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -397,6 +376,27 @@
                   "lisp",
                   "lua"
                 ]
+              },
+              "first_seen": "2026-08-29T02:19:28.125Z"
+            },
+            {
+              "node_type": "item",
+              "title": "clojurust",
+              "description": "clojurust ➕ 14⭐",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Clojure and Rust",
+                "homepage": null,
+                "id": 1171100503,
+                "language": "Rust",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-05T16:25:08Z",
+                "open_issues": 29,
+                "owner": "csm",
+                "repo": "clojurust",
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
             },
@@ -444,7 +444,7 @@
                 "id": 201774594,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-09-18T08:27:02Z",
+                "last_commit": "2026-10-05T09:16:23Z",
                 "open_issues": 43,
                 "owner": "babashka",
                 "repo": "sci",
@@ -463,27 +463,6 @@
             },
             {
               "node_type": "item",
-              "title": "Glojure",
-              "description": "Glojure ➕ 10⭐",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Clojure interpreter hosted on Go, with extensible interop support.",
-                "homepage": null,
-                "id": 570750090,
-                "language": "Go",
-                "license": "EPL-1.0",
-                "last_commit": "2026-09-21T23:14:02Z",
-                "open_issues": 0,
-                "owner": "glojurelang",
-                "repo": "glojure",
-                "stars": 729,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
               "title": "Phel",
               "description": "Phel 🔗 ➕ 10⭐",
               "children": [],
@@ -494,8 +473,8 @@
                 "id": 257098489,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-04T22:21:15Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-05T14:44:31Z",
+                "open_issues": 16,
                 "owner": "phel-lang",
                 "repo": "phel-lang",
                 "stars": 529,
@@ -524,21 +503,21 @@
             },
             {
               "node_type": "item",
-              "title": "ClojureCLR",
-              "description": "ClojureCLR ➕ 8⭐",
+              "title": "Glojure",
+              "description": "Glojure ➕ 9⭐",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A port of Clojure to the CLR, part of the Clojure project",
+                "description": "Clojure interpreter hosted on Go, with extensible interop support.",
                 "homepage": null,
-                "id": 2899001,
-                "language": "C#",
-                "license": null,
-                "last_commit": "2026-10-04T01:37:53Z",
+                "id": 570750090,
+                "language": "Go",
+                "license": "EPL-1.0",
+                "last_commit": "2026-09-21T23:14:02Z",
                 "open_issues": 0,
-                "owner": "clojure",
-                "repo": "clojure-clr",
-                "stars": 1657,
+                "owner": "glojurelang",
+                "repo": "glojure",
+                "stars": 729,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
@@ -570,35 +549,6 @@
             },
             {
               "node_type": "item",
-              "title": "nbb",
-              "description": "nbb ➕ 7⭐",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Scripting in Clojure on Node.js using SCI",
-                "homepage": null,
-                "id": 389997586,
-                "language": "Clojure",
-                "license": "EPL-1.0",
-                "last_commit": "2026-09-25T13:02:15Z",
-                "open_issues": 16,
-                "owner": "babashka",
-                "repo": "nbb",
-                "stars": 969,
-                "topics": [
-                  "babashka",
-                  "clojure",
-                  "clojurescript",
-                  "interpreter",
-                  "javascript",
-                  "nodejs",
-                  "scripting"
-                ]
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
               "title": "Joker",
               "description": "Joker 🔗 ➕ 6⭐",
               "children": [],
@@ -609,7 +559,7 @@
                 "id": 76160954,
                 "language": "Go",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-04T19:27:48Z",
+                "last_commit": "2026-10-05T14:53:23Z",
                 "open_issues": 5,
                 "owner": "candid82",
                 "repo": "joker",
@@ -620,6 +570,63 @@
                   "interpreter",
                   "linter"
                 ]
+              },
+              "first_seen": "2026-08-29T02:19:28.125Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Lux",
+              "description": "Lux ➕ 6⭐",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Lux Programming Language",
+                "homepage": null,
+                "id": 35055585,
+                "language": "Emacs Lisp",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-21T09:50:11Z",
+                "open_issues": 0,
+                "owner": "LuxLang",
+                "repo": "lux",
+                "stars": 1745,
+                "topics": [
+                  "clojure",
+                  "functional-languages",
+                  "functional-programming",
+                  "haskell",
+                  "javascript",
+                  "jvm-languages",
+                  "language",
+                  "lisp",
+                  "lua",
+                  "macros",
+                  "programming-language",
+                  "python",
+                  "ruby",
+                  "types"
+                ]
+              },
+              "first_seen": "2026-08-29T02:19:28.125Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ClojureCLR",
+              "description": "ClojureCLR ➕ 6⭐",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A port of Clojure to the CLR, part of the Clojure project",
+                "homepage": null,
+                "id": 2899001,
+                "language": "C#",
+                "license": null,
+                "last_commit": "2026-10-05T22:55:16Z",
+                "open_issues": 0,
+                "owner": "clojure",
+                "repo": "clojure-clr",
+                "stars": 1657,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
             },
@@ -648,6 +655,35 @@
                   "graphics",
                   "lisp",
                   "lisp-interpreter"
+                ]
+              },
+              "first_seen": "2026-08-29T02:19:28.125Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nbb",
+              "description": "nbb ➕ 6⭐",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Scripting in Clojure on Node.js using SCI",
+                "homepage": null,
+                "id": 389997586,
+                "language": "Clojure",
+                "license": "EPL-1.0",
+                "last_commit": "2026-09-25T13:02:15Z",
+                "open_issues": 16,
+                "owner": "babashka",
+                "repo": "nbb",
+                "stars": 969,
+                "topics": [
+                  "babashka",
+                  "clojure",
+                  "clojurescript",
+                  "interpreter",
+                  "javascript",
+                  "nodejs",
+                  "scripting"
                 ]
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
@@ -712,42 +748,6 @@
             },
             {
               "node_type": "item",
-              "title": "Lux",
-              "description": "Lux ➕ 5⭐",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Lux Programming Language",
-                "homepage": null,
-                "id": 35055585,
-                "language": "Emacs Lisp",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-21T09:50:11Z",
-                "open_issues": 0,
-                "owner": "LuxLang",
-                "repo": "lux",
-                "stars": 1745,
-                "topics": [
-                  "clojure",
-                  "functional-languages",
-                  "functional-programming",
-                  "haskell",
-                  "javascript",
-                  "jvm-languages",
-                  "language",
-                  "lisp",
-                  "lua",
-                  "macros",
-                  "programming-language",
-                  "python",
-                  "ruby",
-                  "types"
-                ]
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
               "title": "Cream",
               "description": "Cream ➕ 5⭐",
               "children": [],
@@ -764,38 +764,6 @@
                 "repo": "cream",
                 "stars": 167,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
-              "title": "cljgo",
-              "description": "cljgo 🔗 ➕ 5⭐",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Clojure hosted on Go — AOT-emits Go source (the ClojureScript model), tree-walk REPL, universal Go interop",
-                "homepage": "https://muthuishere.github.io/cljgo/",
-                "id": 1297604606,
-                "language": "Go",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-10T03:53:23Z",
-                "open_issues": 5,
-                "owner": "muthuishere",
-                "repo": "cljgo",
-                "stars": 24,
-                "topics": [
-                  "clojure",
-                  "clojurescript",
-                  "compiler",
-                  "go",
-                  "golang",
-                  "interop",
-                  "lisp",
-                  "programming-language",
-                  "repl",
-                  "transpiler"
-                ]
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
             },
@@ -866,6 +834,38 @@
                   "clojure",
                   "lisp",
                   "python"
+                ]
+              },
+              "first_seen": "2026-08-29T02:19:28.125Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cljgo",
+              "description": "cljgo 🔗 ➕ 4⭐",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Clojure hosted on Go — AOT-emits Go source (the ClojureScript model), tree-walk REPL, universal Go interop",
+                "homepage": "https://muthuishere.github.io/cljgo/",
+                "id": 1297604606,
+                "language": "Go",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-10T03:53:23Z",
+                "open_issues": 5,
+                "owner": "muthuishere",
+                "repo": "cljgo",
+                "stars": 24,
+                "topics": [
+                  "clojure",
+                  "clojurescript",
+                  "compiler",
+                  "go",
+                  "golang",
+                  "interop",
+                  "lisp",
+                  "programming-language",
+                  "repl",
+                  "transpiler"
                 ]
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
@@ -990,54 +990,6 @@
                 "repo": "swish",
                 "stars": 12,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ClojureScript",
-              "description": "ClojureScript ➕ 1⭐",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Clojure to JS compiler",
-                "homepage": null,
-                "id": 2080922,
-                "language": "Clojure",
-                "license": "EPL-1.0",
-                "last_commit": "2026-10-04T15:57:54Z",
-                "open_issues": 9,
-                "owner": "clojure",
-                "repo": "clojurescript",
-                "stars": 9391,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Clojerl",
-              "description": "Clojerl 🔗 ➕ 1⭐",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Clojure for the Erlang VM (unofficial)",
-                "homepage": "http://try.clojerl.io/",
-                "id": 39593397,
-                "language": "Erlang",
-                "license": "EPL-1.0",
-                "last_commit": "2025-01-07T22:23:02Z",
-                "open_issues": 11,
-                "owner": "clojerl",
-                "repo": "clojerl",
-                "stars": 1715,
-                "topics": [
-                  "beam",
-                  "clojure",
-                  "erlang",
-                  "erlang-vm",
-                  "programming-language"
-                ]
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
             },
@@ -1273,12 +1225,12 @@
             {
               "node_type": "item",
               "title": "ClojureElisp",
-              "description": "ClojureElisp ➕ 1⭐",
+              "description": "ClojureElisp 🔗 ➕ 1⭐",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "A Clojure dialect that compiles to Emacs Lisp",
-                "homepage": null,
+                "homepage": "https://cljdoc.org/d/io.github.buddhilw/clojure-elisp",
                 "id": 1126077160,
                 "language": "Clojure",
                 "license": "MIT",
@@ -1286,8 +1238,17 @@
                 "open_issues": 0,
                 "owner": "BuddhiLW",
                 "repo": "clojure-elisp",
-                "stars": 30,
-                "topics": []
+                "stars": 33,
+                "topics": [
+                  "cljel",
+                  "clojure",
+                  "compiler",
+                  "elisp",
+                  "emacs",
+                  "emacs-lisp",
+                  "lisp",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
             },
@@ -1303,7 +1264,7 @@
                 "id": 204033737,
                 "language": "Go",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-01T12:35:58Z",
+                "last_commit": "2026-10-05T21:15:34Z",
                 "open_issues": 0,
                 "owner": "rcarmo",
                 "repo": "go-joker",
@@ -1328,7 +1289,7 @@
                 "open_issues": 4,
                 "owner": "tompassarelli",
                 "repo": "beagle",
-                "stars": 25,
+                "stars": 24,
                 "topics": [
                   "ai-agents",
                   "beagle",
@@ -1464,11 +1425,11 @@
             "id": 1256501697,
             "language": "Scheme",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-04T20:05:23Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-05T23:19:41Z",
+            "open_issues": 15,
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "chez",
               "chez-scheme",
@@ -1485,7 +1446,7 @@
         {
           "node_type": "item",
           "title": "Beagle",
-          "description": "Beagle ➕ 1.6k commits",
+          "description": "Beagle ➕ 1.5k commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1498,7 +1459,7 @@
             "open_issues": 4,
             "owner": "tompassarelli",
             "repo": "beagle",
-            "stars": 25,
+            "stars": 24,
             "topics": [
               "ai-agents",
               "beagle",
@@ -1548,29 +1509,8 @@
         },
         {
           "node_type": "item",
-          "title": "clojurust",
-          "description": "clojurust ➕ 387 commits",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Clojure and Rust",
-            "homepage": null,
-            "id": 1171100503,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-04T22:18:01Z",
-            "open_issues": 29,
-            "owner": "csm",
-            "repo": "clojurust",
-            "stars": 66,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:19:28.125Z"
-        },
-        {
-          "node_type": "item",
           "title": "Phel",
-          "description": "Phel 🔗 ➕ 378 commits",
+          "description": "Phel 🔗 ➕ 408 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1579,8 +1519,8 @@
             "id": 257098489,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-04T22:21:15Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-05T14:44:31Z",
+            "open_issues": 16,
             "owner": "phel-lang",
             "repo": "phel-lang",
             "stars": 529,
@@ -1609,6 +1549,27 @@
         },
         {
           "node_type": "item",
+          "title": "clojurust",
+          "description": "clojurust ➕ 407 commits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Clojure and Rust",
+            "homepage": null,
+            "id": 1171100503,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-05T16:25:08Z",
+            "open_issues": 29,
+            "owner": "csm",
+            "repo": "clojurust",
+            "stars": 66,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T02:19:28.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "babashka",
           "description": "babashka 🔗 ➕ 237 commits",
           "children": [],
@@ -1623,7 +1584,7 @@
             "open_issues": 31,
             "owner": "babashka",
             "repo": "babashka",
-            "stars": 4615,
+            "stars": 4614,
             "topics": [
               "babashka",
               "bash",
@@ -1638,7 +1599,7 @@
         {
           "node_type": "item",
           "title": "let-go",
-          "description": "let-go 🔗 ➕ 180 commits",
+          "description": "let-go 🔗 ➕ 174 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1647,8 +1608,8 @@
             "id": 340518175,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-04T20:18:01Z",
-            "open_issues": 182,
+            "last_commit": "2026-10-05T18:32:52Z",
+            "open_issues": 178,
             "owner": "nooga",
             "repo": "let-go",
             "stars": 568,
@@ -1666,7 +1627,7 @@
         {
           "node_type": "item",
           "title": "Janet",
-          "description": "Janet 🔗 ➕ 134 commits",
+          "description": "Janet 🔗 ➕ 137 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1675,8 +1636,8 @@
             "id": 84521458,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-04T13:39:07Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-05T23:03:06Z",
+            "open_issues": 66,
             "owner": "janet-lang",
             "repo": "janet",
             "stars": 4440,
@@ -1706,7 +1667,7 @@
             "id": 2899001,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-04T01:37:53Z",
+            "last_commit": "2026-10-05T22:55:16Z",
             "open_issues": 0,
             "owner": "clojure",
             "repo": "clojure-clr",
@@ -1718,7 +1679,7 @@
         {
           "node_type": "item",
           "title": "Sheaf",
-          "description": "Sheaf 🔗 ➕ 77 commits",
+          "description": "Sheaf 🔗 ➕ 76 commits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1760,7 +1721,7 @@
                 "id": 204033737,
                 "language": "Go",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-01T12:35:58Z",
+                "last_commit": "2026-10-05T21:15:34Z",
                 "open_issues": 0,
                 "owner": "rcarmo",
                 "repo": "go-joker",
@@ -1771,45 +1732,13 @@
             },
             {
               "node_type": "item",
-              "title": "ClojureWasm",
-              "description": "ClojureWasm ➕ 72 commits",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A JVM-free Clojure runtime in Zig — call WebAssembly from Clojure to use libraries written in any language.",
-                "homepage": null,
-                "id": 1147041773,
-                "language": "Zig",
-                "license": "EPL-2.0",
-                "last_commit": "2026-08-12T17:12:28Z",
-                "open_issues": 1,
-                "owner": "clojurewasm",
-                "repo": "ClojureWasm",
-                "stars": 189,
-                "topics": [
-                  "clojure",
-                  "compiler",
-                  "ffi",
-                  "interpreter",
-                  "nrepl",
-                  "programming-language",
-                  "wasi",
-                  "wasm",
-                  "webassembly",
-                  "zig"
-                ]
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
               "title": "ClojureElisp",
-              "description": "ClojureElisp ➕ 72 commits",
+              "description": "ClojureElisp 🔗 ➕ 72 commits",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "A Clojure dialect that compiles to Emacs Lisp",
-                "homepage": null,
+                "homepage": "https://cljdoc.org/d/io.github.buddhilw/clojure-elisp",
                 "id": 1126077160,
                 "language": "Clojure",
                 "license": "MIT",
@@ -1817,8 +1746,17 @@
                 "open_issues": 0,
                 "owner": "BuddhiLW",
                 "repo": "clojure-elisp",
-                "stars": 30,
-                "topics": []
+                "stars": 33,
+                "topics": [
+                  "cljel",
+                  "clojure",
+                  "compiler",
+                  "elisp",
+                  "emacs",
+                  "emacs-lisp",
+                  "lisp",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
             },
@@ -1860,11 +1798,11 @@
                 "id": 524398721,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-02T12:07:14Z",
+                "last_commit": "2026-10-05T21:14:01Z",
                 "open_issues": 21,
                 "owner": "squint-cljs",
                 "repo": "squint",
-                "stars": 904,
+                "stars": 905,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1876,7 +1814,7 @@
             {
               "node_type": "item",
               "title": "Gloat",
-              "description": "Gloat ➕ 58 commits",
+              "description": "Gloat ➕ 56 commits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1896,22 +1834,27 @@
             },
             {
               "node_type": "item",
-              "title": "Glojure",
-              "description": "Glojure ➕ 40 commits",
+              "title": "Joker",
+              "description": "Joker 🔗 ➕ 53 commits",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Clojure interpreter hosted on Go, with extensible interop support.",
-                "homepage": null,
-                "id": 570750090,
+                "description": "Small Clojure interpreter, linter and formatter.",
+                "homepage": "https://joker-lang.org/",
+                "id": 76160954,
                 "language": "Go",
                 "license": "EPL-1.0",
-                "last_commit": "2026-09-21T23:14:02Z",
-                "open_issues": 0,
-                "owner": "glojurelang",
-                "repo": "glojure",
-                "stars": 729,
-                "topics": []
+                "last_commit": "2026-10-05T14:53:23Z",
+                "open_issues": 5,
+                "owner": "candid82",
+                "repo": "joker",
+                "stars": 1773,
+                "topics": [
+                  "clojure",
+                  "golang",
+                  "interpreter",
+                  "linter"
+                ]
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
             },
@@ -1948,11 +1891,11 @@
                 "id": 21428070,
                 "language": "C++",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-27T20:16:50Z",
+                "last_commit": "2026-10-06T00:05:35Z",
                 "open_issues": 78,
                 "owner": "jank-lang",
                 "repo": "jank",
-                "stars": 3338,
+                "stars": 3339,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -1970,6 +1913,59 @@
             },
             {
               "node_type": "item",
+              "title": "Glojure",
+              "description": "Glojure ➕ 37 commits",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Clojure interpreter hosted on Go, with extensible interop support.",
+                "homepage": null,
+                "id": 570750090,
+                "language": "Go",
+                "license": "EPL-1.0",
+                "last_commit": "2026-09-21T23:14:02Z",
+                "open_issues": 0,
+                "owner": "glojurelang",
+                "repo": "glojure",
+                "stars": 729,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:19:28.125Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ClojureWasm",
+              "description": "ClojureWasm ➕ 34 commits",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A JVM-free Clojure runtime in Zig — call WebAssembly from Clojure to use libraries written in any language.",
+                "homepage": null,
+                "id": 1147041773,
+                "language": "Zig",
+                "license": "EPL-2.0",
+                "last_commit": "2026-08-12T17:12:28Z",
+                "open_issues": 1,
+                "owner": "clojurewasm",
+                "repo": "ClojureWasm",
+                "stars": 189,
+                "topics": [
+                  "clojure",
+                  "compiler",
+                  "ffi",
+                  "interpreter",
+                  "nrepl",
+                  "programming-language",
+                  "wasi",
+                  "wasm",
+                  "webassembly",
+                  "zig"
+                ]
+              },
+              "first_seen": "2026-08-29T02:19:28.125Z"
+            },
+            {
+              "node_type": "item",
               "title": "SCI",
               "description": "SCI ➕ 26 commits",
               "children": [],
@@ -1980,7 +1976,7 @@
                 "id": 201774594,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-09-18T08:27:02Z",
+                "last_commit": "2026-10-05T09:16:23Z",
                 "open_issues": 43,
                 "owner": "babashka",
                 "repo": "sci",
@@ -2056,27 +2052,6 @@
             },
             {
               "node_type": "item",
-              "title": "Swish",
-              "description": "Swish ➕ 23 commits",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Clojure inspired Lisp written by Claude Code in Swift. For embedding or compiling to Swift.",
-                "homepage": null,
-                "id": 1154082925,
-                "language": "Swift",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-12T01:54:49Z",
-                "open_issues": 0,
-                "owner": "infiniteNIL",
-                "repo": "swish",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
               "title": "nbb",
               "description": "nbb ➕ 20 commits",
               "children": [],
@@ -2106,8 +2081,29 @@
             },
             {
               "node_type": "item",
+              "title": "Swish",
+              "description": "Swish ➕ 19 commits",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Clojure inspired Lisp written by Claude Code in Swift. For embedding or compiling to Swift.",
+                "homepage": null,
+                "id": 1154082925,
+                "language": "Swift",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-12T01:54:49Z",
+                "open_issues": 0,
+                "owner": "infiniteNIL",
+                "repo": "swish",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:19:28.125Z"
+            },
+            {
+              "node_type": "item",
               "title": "ClojureDart",
-              "description": "ClojureDart ➕ 16 commits",
+              "description": "ClojureDart ➕ 17 commits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2116,11 +2112,11 @@
                 "id": 332686695,
                 "language": "Clojure",
                 "license": null,
-                "last_commit": "2026-10-04T19:21:17Z",
+                "last_commit": "2026-10-05T15:33:34Z",
                 "open_issues": 125,
                 "owner": "Tensegritics",
                 "repo": "ClojureDart",
-                "stars": 1647,
+                "stars": 1648,
                 "topics": [
                   "clojure",
                   "dart",
@@ -2152,32 +2148,6 @@
                   "cherry-cljs",
                   "clojure",
                   "clojurescript"
-                ]
-              },
-              "first_seen": "2026-08-29T02:19:28.125Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Joker",
-              "description": "Joker 🔗 ➕ 13 commits",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Small Clojure interpreter, linter and formatter.",
-                "homepage": "https://joker-lang.org/",
-                "id": 76160954,
-                "language": "Go",
-                "license": "EPL-1.0",
-                "last_commit": "2026-10-04T19:27:48Z",
-                "open_issues": 5,
-                "owner": "candid82",
-                "repo": "joker",
-                "stars": 1773,
-                "topics": [
-                  "clojure",
-                  "golang",
-                  "interpreter",
-                  "linter"
                 ]
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
@@ -2263,7 +2233,7 @@
                 "open_issues": 141,
                 "owner": "carp-lang",
                 "repo": "Carp",
-                "stars": 6057,
+                "stars": 6060,
                 "topics": [
                   "functional",
                   "functional-programming",
@@ -2282,7 +2252,7 @@
             {
               "node_type": "item",
               "title": "ClojureScript",
-              "description": "ClojureScript ➕ 6 commits",
+              "description": "ClojureScript ➕ 7 commits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2291,11 +2261,11 @@
                 "id": 2080922,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-04T15:57:54Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-05T19:18:36Z",
+                "open_issues": 10,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9391,
+                "stars": 9392,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
@@ -2561,11 +2531,11 @@
             "id": 1256501697,
             "language": "Scheme",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-04T20:05:23Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-05T23:19:41Z",
+            "open_issues": 15,
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "chez",
               "chez-scheme",
@@ -2595,7 +2565,7 @@
             "open_issues": 4,
             "owner": "tompassarelli",
             "repo": "beagle",
-            "stars": 25,
+            "stars": 24,
             "topics": [
               "ai-agents",
               "beagle",
@@ -2737,7 +2707,7 @@
                 "id": 1171100503,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T22:18:01Z",
+                "last_commit": "2026-10-05T16:25:08Z",
                 "open_issues": 29,
                 "owner": "csm",
                 "repo": "clojurust",
@@ -2990,12 +2960,12 @@
             {
               "node_type": "item",
               "title": "ClojureElisp",
-              "description": "ClojureElisp 01 Jan 2026",
+              "description": "ClojureElisp 🔗 01 Jan 2026",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "A Clojure dialect that compiles to Emacs Lisp",
-                "homepage": null,
+                "homepage": "https://cljdoc.org/d/io.github.buddhilw/clojure-elisp",
                 "id": 1126077160,
                 "language": "Clojure",
                 "license": "MIT",
@@ -3003,8 +2973,17 @@
                 "open_issues": 0,
                 "owner": "BuddhiLW",
                 "repo": "clojure-elisp",
-                "stars": 30,
-                "topics": []
+                "stars": 33,
+                "topics": [
+                  "cljel",
+                  "clojure",
+                  "compiler",
+                  "elisp",
+                  "emacs",
+                  "emacs-lisp",
+                  "lisp",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-29T02:19:28.125Z"
             }
@@ -3094,11 +3073,11 @@
             "id": 2080922,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-04T15:57:54Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-05T19:18:36Z",
+            "open_issues": 10,
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9391,
+            "stars": 9392,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:28.125Z"
@@ -3119,7 +3098,7 @@
             "open_issues": 141,
             "owner": "carp-lang",
             "repo": "Carp",
-            "stars": 6057,
+            "stars": 6060,
             "topics": [
               "functional",
               "functional-programming",
@@ -3179,7 +3158,7 @@
             "open_issues": 31,
             "owner": "babashka",
             "repo": "babashka",
-            "stars": 4615,
+            "stars": 4614,
             "topics": [
               "babashka",
               "bash",
@@ -3203,8 +3182,8 @@
             "id": 84521458,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-04T13:39:07Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-05T23:03:06Z",
+            "open_issues": 66,
             "owner": "janet-lang",
             "repo": "janet",
             "stars": 4440,
@@ -3234,11 +3213,11 @@
             "id": 21428070,
             "language": "C++",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-27T20:16:50Z",
+            "last_commit": "2026-10-06T00:05:35Z",
             "open_issues": 78,
             "owner": "jank-lang",
             "repo": "jank",
-            "stars": 3338,
+            "stars": 3339,
             "topics": [
               "clojure",
               "compiler",
@@ -3363,7 +3342,7 @@
             "id": 76160954,
             "language": "Go",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-04T19:27:48Z",
+            "last_commit": "2026-10-05T14:53:23Z",
             "open_issues": 5,
             "owner": "candid82",
             "repo": "joker",
@@ -3477,7 +3456,7 @@
             "id": 2899001,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-04T01:37:53Z",
+            "last_commit": "2026-10-05T22:55:16Z",
             "open_issues": 0,
             "owner": "clojure",
             "repo": "clojure-clr",
@@ -3498,11 +3477,11 @@
             "id": 332686695,
             "language": "Clojure",
             "license": null,
-            "last_commit": "2026-10-04T19:21:17Z",
+            "last_commit": "2026-10-05T15:33:34Z",
             "open_issues": 125,
             "owner": "Tensegritics",
             "repo": "ClojureDart",
-            "stars": 1647,
+            "stars": 1648,
             "topics": [
               "clojure",
               "dart",
@@ -3525,7 +3504,7 @@
             "id": 201774594,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-09-18T08:27:02Z",
+            "last_commit": "2026-10-05T09:16:23Z",
             "open_issues": 43,
             "owner": "babashka",
             "repo": "sci",
@@ -3728,11 +3707,11 @@
             "id": 524398721,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-02T12:07:14Z",
+            "last_commit": "2026-10-05T21:14:01Z",
             "open_issues": 21,
             "owner": "squint-cljs",
             "repo": "squint",
-            "stars": 904,
+            "stars": 905,
             "topics": [
               "clojure",
               "clojurescript",
@@ -3837,7 +3816,7 @@
         {
           "node_type": "item",
           "title": "let-go",
-          "description": "let-go 🔗 Almost Clojure written in Go. Go 566⭐",
+          "description": "let-go 🔗 Almost Clojure written in Go. Go 568⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3846,8 +3825,8 @@
             "id": 340518175,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-04T20:18:01Z",
-            "open_issues": 182,
+            "last_commit": "2026-10-05T18:32:52Z",
+            "open_issues": 178,
             "owner": "nooga",
             "repo": "let-go",
             "stars": 568,
@@ -3895,8 +3874,8 @@
             "id": 257098489,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-04T22:21:15Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-05T14:44:31Z",
+            "open_issues": 16,
             "owner": "phel-lang",
             "repo": "phel-lang",
             "stars": 529,
@@ -4056,7 +4035,7 @@
         {
           "node_type": "item",
           "title": "Jolt",
-          "description": "Jolt 🔗 A Clojure compiler implemented on top of Chez Scheme Scheme 311⭐",
+          "description": "Jolt 🔗 A Clojure compiler implemented on top of Chez Scheme Scheme 312⭐",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4065,11 +4044,11 @@
             "id": 1256501697,
             "language": "Scheme",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-04T20:05:23Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-05T23:19:41Z",
+            "open_issues": 15,
             "owner": "jolt-lang",
             "repo": "jolt",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "chez",
               "chez-scheme",
@@ -4648,7 +4627,7 @@
             "id": 1171100503,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T22:18:01Z",
+            "last_commit": "2026-10-05T16:25:08Z",
             "open_issues": 29,
             "owner": "csm",
             "repo": "clojurust",
@@ -4953,12 +4932,12 @@
         {
           "node_type": "item",
           "title": "ClojureElisp",
-          "description": "ClojureElisp A Clojure dialect that compiles to Emacs Lisp Clojure 30⭐",
+          "description": "ClojureElisp 🔗 A Clojure dialect that compiles to Emacs Lisp Clojure 30⭐",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": "A Clojure dialect that compiles to Emacs Lisp",
-            "homepage": null,
+            "homepage": "https://cljdoc.org/d/io.github.buddhilw/clojure-elisp",
             "id": 1126077160,
             "language": "Clojure",
             "license": "MIT",
@@ -4966,8 +4945,17 @@
             "open_issues": 0,
             "owner": "BuddhiLW",
             "repo": "clojure-elisp",
-            "stars": 30,
-            "topics": []
+            "stars": 33,
+            "topics": [
+              "cljel",
+              "clojure",
+              "compiler",
+              "elisp",
+              "emacs",
+              "emacs-lisp",
+              "lisp",
+              "transpiler"
+            ]
           },
           "first_seen": "2026-08-29T02:19:28.125Z"
         },
@@ -4983,7 +4971,7 @@
             "id": 204033737,
             "language": "Go",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-01T12:35:58Z",
+            "last_commit": "2026-10-05T21:15:34Z",
             "open_issues": 0,
             "owner": "rcarmo",
             "repo": "go-joker",
@@ -5035,7 +5023,7 @@
             "open_issues": 4,
             "owner": "tompassarelli",
             "repo": "beagle",
-            "stars": 25,
+            "stars": 24,
             "topics": [
               "ai-agents",
               "beagle",
@@ -5783,7 +5771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:23:15.224Z",
+    "last_updated": "2026-10-06T00:52:52.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Clojure-like projects including programming languages, ports, dialects, compilers, interpreters etc",
@@ -5791,7 +5779,7 @@
       "id": 1030442505,
       "language": "Clojure",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-04T04:47:35Z",
+      "last_commit": "2026-10-05T04:36:07Z",
       "open_issues": 0,
       "owner": "ilevd",
       "repo": "clojure-like",
@@ -5810,7 +5798,7 @@
         "programming-languages"
       ]
     },
-    "original_repository_sha": "124cb8221b22fb7c766c87f8c08a17d113b58ab1",
+    "original_repository_sha": "c452c6a6969d6b94250ab2d5fe4dea5a1f6e9f22",
     "enhanced_repository": "enhansome/enhansome-clojure-like",
     "enhanced_repository_description": null,
     "title": "Awesome Clojure-like with stars"
